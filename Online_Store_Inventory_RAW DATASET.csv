@@ -1,0 +1,661 @@
+Product ID,SKU,Product Name,Category,Warehouse Location,Stock Level,Reorder Level,Orders,Order ID,Order Date,Delivery Status,Delivery Days,Unit Price,Returned
+P113,SKU-5638,Air Fryer,Home & Kitchen,Bangalore,189.0,112.0,3.0,O10547,1/29/2024,Pending,0.0,1188.0,
+P110,SKU-9064,Yoga Mat,Fitness,Pune,138.0,52.0,4.0,O10353,1/10/2024,Cancelled,0.0,1139.0,Yes
+P109,,Gaming Keyboard,,Bangalore,154.0,44.0,5.0,O10499,3/6/2024,Delivered,2.0,7577.0,No
+P114,SKU-8612,Dumbbell Set,Fitness,Hyderabad,225.0,110.0,2.0,O10173,2/4/2024,Pending,0.0,916.0,No
+P111,SKU-5923,Power Bank,Electronics,Bangalore,11.0,101.0,5.0,O10241,2/14/2024,Delivered,7.0,5528.0,No
+P105,SKU-1509,Running Shoes,Footwear,Chennai,211.0,101.0,5.0,O10341,3/4/2024,Delayed,3.0,1175.0,No
+P101,SKU-5806,Wireless Mouse,Electronics,Bangalore,171.0,,2.0,O10104,3/3/2024,Delivered,1.0,,No
+P108,SKU-5706,LED Desk Lamp,Home & Kitchen,Bangalore,126.0,112.0,1.0,O10218,1/23/2024,Pending,0.0,5743.0,Yes
+P109,,Gaming Keyboard,Electronics,Mumbai,183.0,65.0,2.0,O10120,2/1/2024,Cancelled,0.0,7347.0,No
+P103,SKU-4674,Laptop Backpack,Accessories,Mumbai,159.0,101.0,3.0,O10134,1/30/2024,Pending,,6647.0,No
+,SKU-1769,Smart Watch,Electronics,Chennai,178.0,,3.0,O10442,5/21/2024,Delivered,5.0,840.0,Yes
+P115,SKU-4912,Formal Shoes,Footwear,Bangalore,12.0,114.0,5.0,,4/9/2024,Delivered,6.0,1955.0,No
+,SKU-5992,Gaming Keyboard,Electronics,Delhi,156.0,57.0,4.0,O10460,6/14/2024,Delivered,,7375.0,Yes
+P109,SKU-7236,Gaming Keyboard,Electronics,Chennai,253.0,113.0,3.0,O10248,3/19/2024,Delivered,5.0,2542.0,No
+P113,SKU-6400,Air Fryer,,Hyderabad,42.0,82.0,3.0,O10132,6/19/2024,Delivered,1.0,6546.0,No
+P110,SKU-7220,Yoga Mat,Fitness,Chennai,156.0,48.0,3.0,O10214,1/11/2024,Pending,0.0,2756.0,Yes
+P108,SKU-7269,LED Desk Lamp,Home & Kitchen,Hyderabad,92.0 ,116.0,2.0,O10501,,Delivered,,3778.0,No
+P105,SKU-9464,Running Shoes,Footwear,Chennai,286.0,102.0,1.0,O10479,6/18/2024,Cancelled,0.0,7128.0,No
+P105,SKU-5222,,Footwear,,-10.0,82.0,1.0,O10515,3/30/2024,Delivered,9.0,7505.0,Yes
+P115,SKU-1019,Formal Shoes,Footwear,Hyderabad,200.0,96.0,4.0,O10484,4/4/2024,Pending,0.0,7566.0,Yes
+P109,SKU-4006,Gaming Keyboard,Electronics,Bangalore,nan ,61.0,1.0,O10023,4/23/2024,Delivered,7.0,7019.0,Yes
+P110,SKU-7366,Yoga Mat,Fitness,Hyderabad,230.0,97.0,,O10549,6/28/2024,Pending,0.0,5235.0,No
+P109,SKU-7244,Gaming Keyboard,Electronics,Pune,143.0,119.0,4.0,O10242,4/14/2024,Delivered,6.0,1622.0,No
+P103,SKU-6878,,Accessories,Pune,-6.0,120.0,3.0,O10352,5/25/2024,Delivered,6.0,5017.0,Yes
+P103,SKU-5831,,Accessories,Mumbai,143.0,63.0,1.0,O10364,1/19/2024,Delivered,1.0,3200.0,Yes
+P110,SKU-5728,Yoga Mat,Fitness,Chennai,43.0,,3.0,O10085,6/28/2024,,0.0,3697.0,No
+P105,SKU-8957,Running Shoes,Footwear,Pune,206.0,83.0,3.0,O10139,2/25/2024,Delivered,7.0,6584.0,Yes
+P108,SKU-7866,LED Desk Lamp,Home & Kitchen,Pune,,83.0,1.0,O10118,5/5/2024,Delivered,9.0,5443.0,
+P106,SKU-3170,Office Chair,Furniture,,75.0,85.0,4.0,O10268,5/22/2024,Delayed,2.0,4944.0,No
+P109,SKU-9529,Gaming Keyboard,Electronics,Mumbai,238.0,50.0,4.0,,5/19/2024,Delivered,3.0,4799.0,No
+P110,SKU-6886,Yoga Mat,Fitness,Mumbai,224.0,47.0,5.0,O10584,6/3/2024,Delivered,1.0,4240.0,No
+P112,SKU-7415,Travel Trolley,Accessories,Pune,-4.0,53.0,5.0,O10359,3/22/2024,Cancelled,0.0,7945.0,Yes
+P104,SKU-7142,Smart Watch,Electronics,Delhi,-6.0,70.0,1.0,O10165,6/15/2024,Delivered,2.0,3146.0,Yes
+P108,SKU-3932,LED Desk Lamp,Home & Kitchen,Mumbai,263.0,113.0,4.0,O10328,2/27/2024,Delivered,3.0,3036.0,Yes
+P108,SKU-3999,LED Desk Lamp,Home & Kitchen,Hyderabad,151.0,113.0 ,1.0,O10397,2/26/2024,Delivered,5.0,3310.0,Yes
+P111,SKU-4335,Power Bank,Electronics,Bangalore,261.0 ,nan ,3.0,O10092,4/22/2024,Delivered,1.0,7615.0,No
+P101,SKU-9787,Wireless Mouse,Electronics,Mumbai,44.0,92.0,2.0,,3/22/2024,Delivered,3.0,4974.0,
+P104,SKU-3564,Smart Watch,Electronics,Mumbai,189.0,87.0,5.0,O10082,4/30/2024,Delivered,2.0,2785.0,Yes
+P104,SKU-9485,Smart Watch,Electronics,Bangalore,178.0 ,90.0,4.0,O10472,1/12/2024,Delivered,4.0,726.0,No
+P108,SKU-9587,LED Desk Lamp,Home & Kitchen,Bangalore,202.0,117.0,2.0,O10406,3/28/2024,Pending,0.0,7784.0,No
+P109,SKU-2743,Gaming Keyboard,Electronics,Hyderabad,132.0,111.0,5.0,,6/4/2024,Delayed,9.0,2029.0,Yes
+,SKU-1116,Travel Trolley,Accessories,Pune,247.0,45.0,5.0,O10487,1/2/2024,Pending,0.0,3472.0,Yes
+,SKU-6355,Water Bottle,Home & Kitchen,Bangalore,174.0,65.0,4.0,O10060,3/5/2024,Delivered,8.0,7239.0,Yes
+P111,SKU-5564,Power Bank,Electronics,,122.0,74.0,5.0,O10041,4/12/2024,Delivered,6.0,5966.0,No
+P105,SKU-9715,,Footwear,Bangalore,191.0,54.0,,O10530,2/16/2024,Pending,0.0,1519.0,No
+P105,SKU-6279,Running Shoes,Footwear,Chennai,206.0,86.0,2.0,O10047,5/10/2024,Delivered,7.0,4276.0,Yes
+,SKU-1444,Formal Shoes,Footwear,Mumbai,199.0 ,47.0,4.0,O10059,2/16/2024,Delivered,10.0,811.0,No
+P112,SKU-8595,Travel Trolley,,Hyderabad,211.0,41.0 ,5.0,O10591,1/29/2024,Delivered,3.0,1872.0,Yes
+P110,SKU-1359,Yoga Mat,Fitness,,182.0,65.0,1.0,O10109,5/24/2024,Delivered,5.0,7486.0,Yes
+P101,SKU-5806,Wireless Mouse,Electronics,Bangalore,171.0,85.0 ,2.0,O10104,3/3/2024,Delivered,1.0,4751.0,No
+P111,SKU-6590,Power Bank,Electronics,Mumbai,195.0,92.0,,O10066,4/20/2024,Delivered,9.0,3367.0,No
+P111,SKU-2562,Power Bank,Electronics,Pune,1.0,59.0,2.0,O10260,6/26/2024,Delayed,10.0,7670.0,No
+P102,SKU-3557,Bluetooth Headphones,Electronics,Delhi,115.0,76.0,5.0,O10559,,Delivered,6.0,2308.0,No
+P105,SKU-8848,Running Shoes,Footwear,Bangalore,70.0 ,80.0 ,3.0,O10274,3/15/2024,Delivered,4.0,6420.0,No
+P108,SKU-2493,LED Desk Lamp,Home & Kitchen,Hyderabad,258.0,79.0,2.0,,,Delivered,5.0,7653.0,No
+P108,SKU-6427,LED Desk Lamp,Home & Kitchen,Hyderabad,36.0,83.0 ,5.0,O10207,3/19/2024,Delayed,,6927.0,Yes
+P104,SKU-6488,Smart Watch,Electronics,Mumbai,172.0,69.0,1.0,O10333,2/22/2024,Delivered,1.0,4740.0,Yes
+P104,SKU-9991,Smart Watch,Electronics,Chennai,298.0 ,48.0,1.0,O10572,,Delivered,5.0,5175.0,Yes
+P113,,Air Fryer,Home & Kitchen,Chennai,113.0,49.0,3.0,O10526,1/3/2024,Delivered,5.0,400.0,Yes
+P106,SKU-3826,Office Chair,Furniture,Hyderabad,132.0,108.0 ,5.0,O10289,1/22/2024,Delayed,10.0,5905.0,Yes
+P114,SKU-7516,Dumbbell Set,Fitness,Delhi,199.0,57.0,4.0,O10305,3/9/2024,Delivered,9.0,3044.0,No
+P108,SKU-8354,LED Desk Lamp,Home & Kitchen,Hyderabad,nan ,112.0,5.0,O10148,3/23/2024,Delayed,,7479.0,No
+P105,SKU-4559,Running Shoes,Footwear,Chennai,207.0,60.0 ,3.0,O10119,1/26/2024,Delivered,6.0,6017.0,No
+P109,SKU-7236,Gaming Keyboard,Electronics,Chennai,253.0,113.0,3.0,O10248,3/19/2024,Delivered,5.0,2542.0,No
+P102,SKU-9542,Bluetooth Headphones,Electronics,Hyderabad,120.0,63.0,5.0,O10473,5/19/2024,Pending,0.0,5070.0,Yes
+P104,SKU-3798,Smart Watch,Electronics,,129.0 ,40.0,4.0,O10369,1/30/2024,,4.0,2926.0,No
+P104,SKU-5366,Smart Watch,Electronics,Pune,8.0,58.0,5.0,O10351,4/9/2024,Pending,0.0,3306.0,Yes
+P108,SKU-8126,LED Desk Lamp,Home & Kitchen,Bangalore,9.0,39.0,4.0,O10179,4/3/2024,Delivered,6.0,4603.0,Yes
+P110,SKU-7209,Yoga Mat,Fitness,Bangalore,-6.0,93.0,3.0,O10069,2/16/2024,Pending,0.0,4394.0,Yes
+P108,SKU-3480,LED Desk Lamp,,Chennai,295.0,117.0,4.0,O10314,2/25/2024,Delivered,4.0,1110.0,Yes
+P111,SKU-2705,,Electronics,Delhi,72.0,100.0,4.0,O10554,5/9/2024,Delivered,7.0,3164.0,Yes
+P101,SKU-3362,Wireless Mouse,Electronics,Hyderabad,183.0,39.0,3.0,O10262,2/11/2024,Cancelled,0.0,5019.0,Yes
+P104,SKU-7142,Smart Watch,Electronics,Delhi,,70.0,1.0,O10165,6/15/2024,Delivered,2.0,3146.0,Yes
+P103,SKU-7643,Laptop Backpack,Accessories,Chennai,243.0,71.0,1.0,O10223,4/12/2024,Pending,0.0,5882.0,Yes
+P108,SKU-5873,LED Desk Lamp,Home & Kitchen,Chennai,nan ,118.0,1.0,O10195,2/10/2024,Delivered,7.0,,No
+P109,SKU-2512,Gaming Keyboard,Electronics,Hyderabad,196.0,65.0,1.0,,1/1/2024,Delivered,1.0,3132.0,Yes
+P113,SKU-1118,Air Fryer,Home & Kitchen,Pune,171.0,54.0,4.0,,,Delivered,4.0,3980.0,No
+P111,SKU-4965,Power Bank,Electronics,Bangalore,58.0,84.0,4.0,O10277,1/19/2024,Delivered,5.0,4078.0,No
+P104,SKU-1326,Smart Watch,Electronics,Pune,224.0 ,30.0 ,3.0,O10354,6/6/2024,Pending,0.0,2050.0,Yes
+P106,SKU-3583,Office Chair,Furniture,Chennai,26.0,117.0,5.0,O10540,3/27/2024,Delayed,4.0,6622.0,Yes
+P112,SKU-9784,Travel Trolley,Accessories,Pune,-1.0 ,96.0,1.0,O10588,4/25/2024,Delivered,10.0,4142.0,Yes
+P105,SKU-3877,Running Shoes,Footwear,Mumbai,-14.0,120.0 ,2.0,O10323,6/28/2024,Pending,0.0,492.0,Yes
+P108,SKU-8937,LED Desk Lamp,Home & Kitchen,Pune,171.0,37.0,5.0,O10383,2/10/2024,,7.0,937.0,No
+P110,SKU-2591,Yoga Mat,Fitness,Hyderabad,0.0,69.0,4.0,O10111,1/9/2024,Delivered,3.0,5147.0,No
+P114,SKU-9452,Dumbbell Set,Fitness,Mumbai,125.0,40.0,2.0,O10163,3/10/2024,Delivered,2.0,4080.0,Yes
+P111,SKU-5012,Power Bank,Electronics,Delhi,51.0,43.0,5.0,O10000,1/23/2024,Delivered,5.0,5237.0,No
+P104,SKU-4295,Smart Watch,Electronics,Hyderabad,139.0,81.0,3.0,O10017,4/22/2024,Cancelled,0.0,7769.0,No
+P114,,Dumbbell Set,Fitness,Delhi,255.0,119.0,4.0,O10453,6/14/2024,Pending,0.0,7090.0,Yes
+P111,SKU-8801,Power Bank,Electronics,Chennai,256.0,64.0,5.0,O10524,4/23/2024,Delivered,6.0,1506.0,Yes
+P106,SKU-3742,Office Chair,Furniture,Pune,253.0,30.0,1.0,O10452,2/23/2024,Delivered,2.0,5891.0,
+,,,Electronics,Mumbai,189.0,87.0,5.0,O10082,4/30/2024,Delivered,2.0,2785.0,Yes
+P101,SKU-3762,Wireless Mouse,Electronics,Pune,61.0,92.0 ,1.0,O10402,,Delivered,4.0,5433.0,No
+P102,SKU-6692,Bluetooth Headphones,Electronics,Hyderabad,13.0,100.0,5.0,O10185,3/15/2024,Delayed,6.0,7701.0,No
+P106,SKU-5313,Office Chair,Furniture,Chennai,218.0,63.0,2.0,O10371,3/9/2024,Delivered,1.0,5022.0,Yes
+P111,SKU-7911,Power Bank,Electronics,Hyderabad,293.0,103.0,,O10518,1/19/2024,Delayed,6.0,1048.0,Yes
+P108,SKU-6546,LED Desk Lamp,Home & Kitchen,Pune,183.0,113.0,1.0,O10101,3/25/2024,Delayed,5.0,7382.0,No
+P102,SKU-2641,Bluetooth Headphones,Electronics,Mumbai,268.0,,3.0,O10378,5/17/2024,Delivered,,7610.0,No
+P101,SKU-8091,Wireless Mouse,Electronics,Pune,227.0,95.0,2.0,O10433,,Delivered,1.0,5139.0,Yes
+P102,SKU-6343,Bluetooth Headphones,Electronics,Bangalore,246.0,88.0,1.0,O10377,6/28/2024,Delivered,7.0,5504.0,No
+P102,SKU-5941,Bluetooth Headphones,Electronics,Hyderabad,287.0,45.0,5.0,O10065,1/11/2024,Pending,0.0,3244.0,No
+P107,SKU-9669,Water Bottle,Home & Kitchen,Bangalore,263.0,,,O10011,6/23/2024,Delivered,8.0,7648.0,No
+P109,SKU-4695,Gaming Keyboard,Electronics,Delhi,154.0,80.0,2.0,O10578,1/23/2024,Cancelled,0.0,6379.0,No
+P115,SKU-8141,Formal Shoes,Footwear,Hyderabad,231.0 ,41.0 ,,O10088,3/30/2024,Delivered,,3745.0,No
+P106,SKU-2376,Office Chair,Furniture,Pune,280.0,63.0,1.0,O10343,1/6/2024,,0.0,928.0,Yes
+P106,SKU-5767,Office Chair,,Delhi,217.0,94.0,5.0,O10469,1/24/2024,Delivered,10.0,3650.0,No
+P101,SKU-8836,Wireless Mouse,Electronics,Pune,-4.0,94.0,3.0,O10507,4/10/2024,,7.0,7448.0,Yes
+P106,SKU-6301,,Furniture,,-9.0,48.0,5.0,O10355,6/29/2024,Pending,0.0,7913.0,
+P107,SKU-6241,Water Bottle,Home & Kitchen,Bangalore,19.0,103.0 ,3.0,O10329,1/31/2024,Cancelled,0.0,4512.0,Yes
+P106,SKU-1020,Office Chair,Furniture,Mumbai,177.0,86.0,4.0,O10362,2/12/2024,Delivered,2.0,7646.0,No
+P115,SKU-9709,Formal Shoes,Footwear,Mumbai,75.0,55.0,5.0,O10575,4/27/2024,Delivered,10.0,4993.0,Yes
+P108,SKU-7370,LED Desk Lamp,Home & Kitchen,Mumbai,89.0,56.0,3.0,O10286,6/29/2024,Pending,0.0,,Yes
+P114,SKU-4943,Dumbbell Set,Fitness,Pune,259.0,57.0 ,4.0,O10556,5/20/2024,Pending,0.0,7986.0,No
+P106,SKU-5510,Office Chair,Furniture,Pune,263.0,50.0 ,1.0,O10544,,Pending,0.0,1669.0,
+P115,SKU-9095,Formal Shoes,Footwear,Delhi,26.0,95.0,1.0,O10414,1/26/2024,Delivered,10.0,7811.0,No
+P103,SKU-7743,Laptop Backpack,Accessories,Mumbai,121.0,113.0,,O10301,6/28/2024,Cancelled,0.0,7494.0,Yes
+P115,SKU-9955,Formal Shoes,Footwear,,,86.0,3.0,O10107,5/30/2024,Delayed,5.0,2850.0,No
+P106,SKU-8384,Office Chair,Furniture,Delhi,272.0,46.0,5.0,O10511,,Delayed,5.0,2272.0,Yes
+P103,SKU-5897,Laptop Backpack,Accessories,,260.0,70.0,5.0,O10436,6/10/2024,Delivered,9.0,2180.0,Yes
+P108,SKU-2964,LED Desk Lamp,Home & Kitchen,Mumbai,60.0,117.0,3.0,O10339,6/29/2024,Delivered,5.0,6108.0,Yes
+P113,SKU-9535,Air Fryer,Home & Kitchen,Chennai,191.0,51.0,2.0,,1/6/2024,Delayed,6.0,1424.0,Yes
+P103,SKU-8784,Laptop Backpack,Accessories,Pune,17.0,88.0,4.0,O10049,6/10/2024,Delivered,4.0,5115.0,Yes
+P105,SKU-8060,Running Shoes,,Delhi,115.0,76.0 ,4.0,,4/3/2024,Delivered,2.0,770.0,No
+P104,SKU-4505,Smart Watch,Electronics,Mumbai,192.0,,3.0,O10055,5/18/2024,Delivered,3.0,4216.0,No
+P102,SKU-3611,Bluetooth Headphones,Electronics,Mumbai,193.0 ,105.0,4.0,O10419,5/25/2024,Delivered,1.0,5957.0,No
+P113,SKU-4729,Air Fryer,Home & Kitchen,Bangalore,188.0,79.0,4.0,O10455,6/10/2024,Delivered,2.0,3713.0,No
+P105,SKU-2926,,Footwear,Delhi,83.0,30.0,5.0,O10596,3/5/2024,Pending,0.0,500.0,No
+P104,SKU-1618,Smart Watch,Electronics,Hyderabad,176.0,81.0,5.0,O10493,6/16/2024,Delivered,10.0,4668.0,No
+P104,SKU-3579,Smart Watch,Electronics,Mumbai,121.0,,3.0,O10496,6/20/2024,Pending,0.0,3637.0,No
+P113,SKU-6507,Air Fryer,Home & Kitchen,Mumbai,223.0,103.0 ,1.0,O10565,5/20/2024,Delivered,3.0,3670.0,No
+P109,SKU-1152,Gaming Keyboard,Electronics,,155.0 ,45.0,4.0,O10311,6/26/2024,Pending,0.0,1482.0,No
+P115,SKU-2035,Formal Shoes,Footwear,Hyderabad,217.0,119.0,,O10116,6/15/2024,Pending,0.0,3744.0,Yes
+P112,SKU-2698,Travel Trolley,Accessories,Pune,150.0,47.0,1.0,O10172,3/31/2024,Pending,0.0,4872.0,No
+P114,SKU-8259,,,Bangalore,117.0 ,83.0,5.0,O10382,6/14/2024,Delivered,5.0,1131.0,
+P104,SKU-6876,Smart Watch,Electronics,Chennai,32.0,108.0,5.0,O10441,2/27/2024,Delayed,1.0,6481.0,No
+P102,SKU-1753,Bluetooth Headphones,Electronics,Mumbai,113.0,113.0 ,3.0,O10421,1/4/2024,Delayed,8.0,6171.0,Yes
+P108,SKU-9946,LED Desk Lamp,Home & Kitchen,Chennai,31.0,91.0,5.0,O10363,6/15/2024,Delayed,6.0,6611.0,Yes
+P104,SKU-9538,Smart Watch,Electronics,Hyderabad,86.0,90.0 ,4.0,O10536,6/23/2024,Delivered,,2956.0,No
+P104,SKU-3496,Smart Watch,,Delhi,44.0,90.0,1.0,O10062,,Delivered,1.0,2185.0,No
+P108,SKU-3496,LED Desk Lamp,Home & Kitchen,Pune,270.0,76.0,3.0,O10464,4/19/2024,Delivered,5.0,1781.0,Yes
+P111,,Power Bank,Electronics,Bangalore,45.0,100.0,5.0,O10189,2/16/2024,Delivered,8.0,,Yes
+P110,SKU-1430,Yoga Mat,Fitness,Pune,116.0,33.0,2.0,O10135,3/10/2024,Delivered,7.0,6156.0,No
+P106,SKU-4869,Office Chair,Furniture,Pune,121.0 ,37.0,3.0,O10577,4/9/2024,Pending,0.0,7694.0,Yes
+P102,SKU-8418,Bluetooth Headphones,Electronics,,298.0,92.0,2.0,O10531,3/23/2024,Pending,0.0,558.0,Yes
+P109,SKU-5178,Gaming Keyboard,,Mumbai,149.0,89.0,2.0,O10445,1/11/2024,Delivered,3.0,1659.0,No
+P109,SKU-6916,Gaming Keyboard,Electronics,Bangalore,47.0,79.0,5.0,O10318,4/17/2024,Delayed,1.0,3393.0,Yes
+P114,SKU-8451,Dumbbell Set,Fitness,Mumbai,141.0,62.0,3.0,O10090,1/30/2024,,1.0,6728.0,No
+,SKU-5828,LED Desk Lamp,Home & Kitchen,Pune,230.0 ,54.0 ,5.0,O10543,2/17/2024,Pending,0.0,4853.0,No
+P110,SKU-9565,Yoga Mat,Fitness,Bangalore,,56.0,3.0,O10029,3/2/2024,Delivered,10.0,,No
+P109,SKU-9584,Gaming Keyboard,Electronics,Mumbai,33.0,63.0,,O10522,2/9/2024,Delivered,,1090.0,No
+P112,SKU-6968,Travel Trolley,Accessories,Hyderabad,101.0,86.0,5.0,O10160,3/13/2024,Delivered,7.0,6563.0,No
+P109,SKU-6228,Gaming Keyboard,Electronics,Delhi,218.0,,3.0,O10197,4/25/2024,Pending,0.0,2430.0,Yes
+P111,SKU-3147,Power Bank,Electronics,Pune,172.0,49.0,2.0,O10159,2/16/2024,Delivered,10.0,7210.0,Yes
+P110,SKU-4111,Yoga Mat,Fitness,Bangalore,93.0,117.0,5.0,O10395,6/12/2024,Pending,0.0,6829.0,No
+P112,SKU-8923,Travel Trolley,Accessories,Delhi,153.0,88.0,4.0,O10500,5/30/2024,Delivered,,7461.0,Yes
+P110,SKU-7006,Yoga Mat,Fitness,Hyderabad,,78.0,3.0,O10408,5/16/2024,Delivered,2.0,5504.0,Yes
+P109,SKU-1056,Gaming Keyboard,Electronics,Mumbai,132.0,89.0,5.0,O10236,4/18/2024,Delivered,4.0,4757.0,No
+P103,SKU-9740,Laptop Backpack,Accessories,Mumbai,237.0,112.0 ,2.0,,5/31/2024,Pending,0.0,5156.0,Yes
+P104,,Smart Watch,Electronics,Mumbai,31.0,86.0,2.0,O10103,6/26/2024,Pending,0.0,2853.0,Yes
+P101,SKU-3018,,Electronics,Chennai,214.0,114.0,5.0,O10432,5/9/2024,Cancelled,0.0,1502.0,No
+P112,SKU-6935,Travel Trolley,,Mumbai,59.0,84.0,5.0,O10488,3/5/2024,Delayed,7.0,2540.0,No
+P101,SKU-9856,Wireless Mouse,Electronics,Mumbai,27.0 ,60.0,2.0,O10024,4/14/2024,Pending,0.0,4378.0,No
+P113,SKU-8253,Air Fryer,Home & Kitchen,Bangalore,281.0,84.0,3.0,O10080,5/25/2024,Delivered,8.0,5487.0,Yes
+,SKU-6443,Wireless Mouse,Electronics,Pune,174.0 ,72.0,4.0,O10273,3/26/2024,Cancelled,0.0,3927.0,Yes
+P104,SKU-6904,Smart Watch,Electronics,Hyderabad,81.0,65.0,3.0,O10385,4/28/2024,Delivered,1.0,4537.0,No
+P102,SKU-6881,Bluetooth Headphones,Electronics,Bangalore,289.0,63.0,1.0,O10003,4/27/2024,Delivered,2.0,4792.0,
+P101,SKU-8916,Wireless Mouse,Electronics,Hyderabad,229.0,32.0,1.0,O10255,5/16/2024,Pending,0.0,4919.0,No
+P104,SKU-9830,Smart Watch,Electronics,Bangalore,279.0,,5.0,O10009,4/12/2024,Pending,0.0,3365.0,Yes
+P108,SKU-5820,,Home & Kitchen,Delhi,187.0,118.0,2.0,O10072,3/19/2024,Delayed,2.0,5839.0,No
+P114,SKU-4943,Dumbbell Set,Fitness,Pune,259.0,57.0,4.0,O10556,5/20/2024,Pending,0.0,7986.0,No
+P108,SKU-1107,LED Desk Lamp,Home & Kitchen,Delhi,260.0,65.0,5.0,O10598,6/9/2024,Delivered,2.0,4967.0,Yes
+P107,SKU-1919,Water Bottle,Home & Kitchen,Hyderabad,-16.0,119.0 ,2.0,,1/22/2024,Pending,0.0,4494.0,No
+P111,SKU-9129,Power Bank,Electronics,Delhi,149.0,39.0,2.0,O10360,3/29/2024,Pending,0.0,3017.0,Yes
+P111,SKU-9148,Power Bank,Electronics,Bangalore,112.0,83.0,4.0,O10394,4/9/2024,Delivered,1.0,6435.0,Yes
+P102,SKU-6437,Bluetooth Headphones,Electronics,Bangalore,164.0,67.0 ,2.0,O10448,6/7/2024,Delivered,4.0,4745.0,No
+P109,SKU-4798,Gaming Keyboard,Electronics,Chennai,,53.0,4.0,O10285,4/11/2024,Delivered,8.0,639.0,Yes
+P103,SKU-8822,Laptop Backpack,Accessories,Bangalore,107.0 ,30.0,3.0,,4/8/2024,Cancelled,0.0,2329.0,No
+P114,SKU-4644,Dumbbell Set,Fitness,Delhi,215.0,74.0,3.0,O10040,2/28/2024,Delivered,8.0,2226.0,Yes
+P102,SKU-6901,Bluetooth Headphones,Electronics,Mumbai,-11.0,67.0,4.0,O10574,2/29/2024,Delivered,5.0,3518.0,Yes
+P101,SKU-5741,Wireless Mouse,Electronics,Mumbai,99.0,42.0,4.0,O10005,3/12/2024,Pending,0.0,4114.0,No
+P107,SKU-1530,Water Bottle,Home & Kitchen,Pune,58.0,,4.0,O10181,4/4/2024,Cancelled,0.0,3447.0,No
+P115,SKU-6211,Formal Shoes,Footwear,Chennai,119.0,59.0,1.0,O10337,2/21/2024,,6.0,1515.0,Yes
+P114,SKU-7858,Dumbbell Set,Fitness,Pune,223.0,103.0,2.0,O10373,5/1/2024,Delivered,9.0,2848.0,Yes
+P113,SKU-7658,Air Fryer,Home & Kitchen,Pune,59.0,60.0,2.0,O10038,2/15/2024,Pending,0.0,7620.0,No
+,SKU-2391,Travel Trolley,Accessories,Pune,28.0,94.0,2.0,O10335,6/12/2024,Delayed,8.0,,No
+P110,SKU-3247,Yoga Mat,Fitness,Chennai,33.0,95.0,5.0,O10411,1/31/2024,Pending,0.0,2715.0,Yes
+P115,SKU-2514,Formal Shoes,Footwear,Pune,77.0,36.0,3.0,O10245,4/6/2024,Delivered,6.0,5918.0,Yes
+P111,SKU-1500,Power Bank,Electronics,Delhi,170.0,92.0,5.0,O10386,4/24/2024,Cancelled,0.0,1854.0,No
+P113,SKU-7859,Air Fryer,Home & Kitchen,Delhi,82.0,107.0,2.0,O10162,3/5/2024,Delivered,9.0,827.0,No
+P112,SKU-9548,Travel Trolley,Accessories,Hyderabad,118.0,108.0,5.0,O10067,5/3/2024,Delivered,3.0,4208.0,No
+P110,SKU-5347,Yoga Mat,Fitness,Mumbai,44.0,,5.0,O10124,1/30/2024,Delivered,3.0,6508.0,Yes
+P101,SKU-7745,Wireless Mouse,Electronics,Hyderabad,107.0,64.0,2.0,O10039,6/28/2024,Delivered,6.0,1285.0,No
+P108,SKU-6362,LED Desk Lamp,Home & Kitchen,Pune,-19.0,41.0 ,,O10304,6/11/2024,Cancelled,0.0,5840.0,No
+P114,SKU-4187,Dumbbell Set,Fitness,,186.0,103.0,1.0,O10498,,Delivered,,1833.0,
+P101,SKU-1959,Wireless Mouse,Electronics,Chennai,,75.0,,O10350,2/29/2024,Delayed,,1707.0,Yes
+P104,SKU-4232,Smart Watch,Electronics,Delhi,288.0,49.0,1.0,O10147,2/15/2024,Delivered,5.0,6731.0,No
+P107,SKU-8765,Water Bottle,Home & Kitchen,Delhi,253.0 ,58.0,2.0,O10458,4/10/2024,Delivered,1.0,6927.0,
+P112,SKU-8870,Travel Trolley,Accessories,Pune,272.0,115.0,4.0,O10438,6/21/2024,Delivered,6.0,6526.0,No
+P114,SKU-6323,Dumbbell Set,Fitness,Chennai,106.0,84.0,4.0,O10587,1/11/2024,Pending,0.0,5380.0,No
+P109,SKU-9589,Gaming Keyboard,Electronics,Delhi,104.0,39.0,3.0,O10567,4/20/2024,Pending,0.0,3049.0,Yes
+P102,SKU-8133,Bluetooth Headphones,Electronics,,55.0,106.0,3.0,O10376,3/22/2024,Cancelled,0.0,7861.0,Yes
+P110,SKU-5333,Yoga Mat,Fitness,Delhi,155.0,88.0,5.0,O10481,5/31/2024,Pending,0.0,,Yes
+P102,SKU-5345,Bluetooth Headphones,Electronics,Delhi,158.0,38.0,2.0,O10031,4/4/2024,Delivered,9.0,2734.0,Yes
+P111,,Power Bank,Electronics,Chennai,-15.0,63.0 ,2.0,O10361,3/4/2024,Delayed,2.0,6078.0,Yes
+P101,SKU-5995,Wireless Mouse,,Bangalore,230.0,80.0,2.0,O10576,1/5/2024,Delivered,9.0,3240.0,No
+P106,SKU-8951,Office Chair,Furniture,Bangalore,4.0,35.0,1.0,O10306,6/9/2024,Delivered,3.0,6821.0,No
+P107,SKU-4993,Water Bottle,Home & Kitchen,Chennai,262.0,48.0,4.0,O10095,2/18/2024,Delayed,8.0,7951.0,Yes
+P109,SKU-8258,Gaming Keyboard,Electronics,Bangalore,141.0,100.0,3.0,O10555,4/5/2024,Cancelled,0.0,3777.0,No
+P112,SKU-4974,Travel Trolley,Accessories,Hyderabad,289.0,120.0 ,2.0,O10247,4/11/2024,Delivered,8.0,7896.0,Yes
+P101,SKU-7044,Wireless Mouse,Electronics,Chennai,,46.0,5.0,O10187,1/23/2024,Delivered,10.0,938.0,No
+P105,SKU-5593,,Footwear,Pune,268.0,114.0,1.0,O10261,2/15/2024,Delivered,2.0,7366.0,No
+P102,SKU-9693,Bluetooth Headphones,Electronics,Pune,79.0,74.0,3.0,O10146,6/14/2024,Delivered,2.0,7076.0,Yes
+P105,SKU-6621,Running Shoes,Footwear,Bangalore,74.0,93.0,4.0,O10510,2/23/2024,Delivered,10.0,,No
+P105,SKU-4155,Running Shoes,,Bangalore,41.0,98.0,2.0,,2/19/2024,Delivered,,2172.0,
+P115,SKU-2514,Formal Shoes,,Pune,77.0 ,36.0,3.0,O10245,4/6/2024,Delivered,6.0,5918.0,Yes
+P101,SKU-6718,Wireless Mouse,Electronics,Mumbai,54.0 ,34.0,,O10599,6/3/2024,Delivered,1.0,2844.0,No
+P108,SKU-1853,LED Desk Lamp,Home & Kitchen,Bangalore,94.0,113.0,1.0,O10061,6/15/2024,,9.0,,Yes
+P113,SKU-1972,Air Fryer,Home & Kitchen,Pune,159.0,98.0,3.0,O10299,6/1/2024,Delivered,4.0,4813.0,Yes
+P115,SKU-9564,Formal Shoes,Footwear,Mumbai,-8.0,78.0,2.0,O10439,1/14/2024,Delayed,1.0,5890.0,Yes
+P103,SKU-3073,Laptop Backpack,Accessories,Bangalore,3.0,36.0,5.0,O10076,3/15/2024,Delivered,,,Yes
+P101,SKU-8230,Wireless Mouse,Electronics,Chennai,-20.0,84.0 ,2.0,O10307,6/25/2024,,3.0,7849.0,Yes
+,SKU-6331,Water Bottle,Home & Kitchen,Bangalore,293.0,63.0 ,2.0,O10509,5/20/2024,Pending,0.0,2553.0,Yes
+P114,SKU-6922,Dumbbell Set,Fitness,Pune,94.0,45.0,2.0,O10186,2/5/2024,Delivered,3.0,2339.0,No
+P114,SKU-6323,Dumbbell Set,Fitness,Chennai,106.0,84.0,4.0,O10587,1/11/2024,Pending,0.0,5380.0,No
+P114,SKU-5397,Dumbbell Set,Fitness,Bangalore,105.0,41.0,3.0,O10068,4/25/2024,Pending,0.0,2397.0,No
+P110,SKU-2771,Yoga Mat,Fitness,Hyderabad,-10.0,36.0,1.0,O10409,4/16/2024,Cancelled,0.0,4039.0,No
+P108,SKU-1094,LED Desk Lamp,Home & Kitchen,Pune,232.0,60.0,2.0,O10597,5/30/2024,Delayed,9.0,,
+,SKU-7866,LED Desk Lamp,Home & Kitchen,Pune,59.0,83.0,1.0,O10118,5/5/2024,Delivered,9.0,5443.0,No
+P112,,Travel Trolley,Accessories,Delhi,189.0,43.0,3.0,O10430,6/5/2024,Delivered,3.0,2004.0,Yes
+P115,SKU-5803,Formal Shoes,Footwear,Hyderabad,296.0,76.0,,O10004,2/19/2024,Delivered,9.0,6171.0,Yes
+P114,SKU-3060,Dumbbell Set,Fitness,Delhi,223.0,100.0,2.0,O10016,3/8/2024,Delivered,9.0,4722.0,No
+P106,SKU-5773,Office Chair,Furniture,Hyderabad,116.0,107.0,4.0,O10519,3/10/2024,Delivered,6.0,7671.0,No
+P114,SKU-4322,Dumbbell Set,Fitness,,296.0,75.0,2.0,O10504,1/28/2024,Delivered,4.0,1382.0,Yes
+P109,SKU-9625,Gaming Keyboard,Electronics,Bangalore,161.0,64.0,4.0,O10257,1/21/2024,Delivered,4.0,3456.0,No
+P102,SKU-1964,,Electronics,Delhi,14.0,34.0,3.0,O10019,1/19/2024,Pending,0.0,4611.0,Yes
+P102,SKU-3508,Bluetooth Headphones,Electronics,Delhi,-16.0,68.0,,O10410,6/18/2024,,8.0,1227.0,No
+P104,SKU-1797,Smart Watch,Electronics,Mumbai,124.0,93.0,5.0,O10200,6/16/2024,Delivered,6.0,5909.0,No
+P115,SKU-6873,Formal Shoes,Footwear,Pune,133.0,51.0,5.0,O10396,,Cancelled,0.0,2806.0,Yes
+P110,SKU-1430,Yoga Mat,Fitness,Pune,116.0,33.0,2.0,O10135,3/10/2024,Delivered,7.0,6156.0,No
+P103,SKU-5986,Laptop Backpack,Accessories,Chennai,,42.0,2.0,O10117,5/17/2024,Delivered,1.0,1511.0,No
+P107,SKU-5067,Water Bottle,Home & Kitchen,Bangalore,183.0,73.0 ,3.0,O10435,4/25/2024,Cancelled,0.0,,Yes
+P103,SKU-5136,Laptop Backpack,Accessories,Chennai,38.0,38.0,4.0,O10078,5/5/2024,Cancelled,0.0,1006.0,Yes
+,SKU-7381,Wireless Mouse,Electronics,Pune,-10.0,103.0,4.0,O10056,5/2/2024,Delivered,,448.0,No
+P105,SKU-9818,,Footwear,Hyderabad,259.0,107.0,2.0,O10057,5/4/2024,Delayed,7.0,2197.0,No
+P101,SKU-8179,Wireless Mouse,Electronics,Mumbai,44.0,38.0,2.0,O10180,6/14/2024,Delivered,10.0,3400.0,No
+P111,SKU-1182,Power Bank,Electronics,Pune,264.0,48.0,1.0,,1/11/2024,Delivered,6.0,441.0,No
+P101,SKU-3925,Wireless Mouse,Electronics,Pune,115.0,34.0,1.0,O10042,6/1/2024,Delivered,5.0,3959.0,No
+P102,SKU-1349,Bluetooth Headphones,Electronics,Mumbai,150.0,61.0,2.0,,5/24/2024,Pending,0.0,2081.0,Yes
+P109,SKU-5067,,Electronics,Bangalore,27.0,81.0,3.0,O10502,1/20/2024,Delivered,5.0,4942.0,Yes
+P110,SKU-2625,Yoga Mat,Fitness,Delhi,300.0 ,57.0,3.0,O10081,6/18/2024,Cancelled,0.0,1065.0,
+P114,SKU-1842,Dumbbell Set,Fitness,Bangalore,287.0,69.0,3.0,O10133,1/27/2024,Cancelled,0.0,5134.0,Yes
+P110,SKU-5934,Yoga Mat,Fitness,Chennai,273.0,100.0,3.0,O10446,1/19/2024,,10.0,6822.0,No
+P112,,Travel Trolley,Accessories,Chennai,156.0,119.0,1.0,O10233,5/18/2024,Delivered,2.0,893.0,Yes
+P115,SKU-7471,Formal Shoes,Footwear,Chennai,-5.0,78.0,4.0,O10345,2/14/2024,Pending,0.0,3299.0,Yes
+,SKU-4568,Smart Watch,Electronics,Mumbai,100.0,111.0,4.0,O10538,3/24/2024,Delivered,1.0,523.0,Yes
+P104,SKU-8684,Smart Watch,Electronics,Delhi,168.0,116.0 ,5.0,O10161,4/22/2024,Delivered,5.0,4182.0,No
+P101,SKU-4625,Wireless Mouse,Electronics,Hyderabad,54.0,32.0,3.0,O10250,5/21/2024,Pending,0.0,5184.0,No
+P111,SKU-9570,Power Bank,Electronics,Hyderabad,296.0,42.0 ,4.0,O10422,6/18/2024,Delayed,,6352.0,Yes
+P101,SKU-4122,Wireless Mouse,Electronics,Mumbai,-18.0,110.0,2.0,O10404,2/27/2024,Delayed,9.0,6081.0,No
+P101,SKU-2161,Wireless Mouse,Electronics,Mumbai,86.0,113.0,4.0,O10550,1/21/2024,Delivered,10.0,4234.0,Yes
+P103,SKU-9740,,Accessories,Mumbai,237.0,112.0,2.0,O10192,5/31/2024,Pending,0.0,5156.0,Yes
+P108,SKU-2166,LED Desk Lamp,Home & Kitchen,Chennai,79.0,94.0,,O10399,6/23/2024,Delivered,10.0,3526.0,No
+P109,SKU-7607,Gaming Keyboard,Electronics,Delhi,20.0,88.0,4.0,O10425,5/26/2024,Pending,0.0,4070.0,Yes
+P110,SKU-9821,Yoga Mat,Fitness,Delhi,125.0,75.0,3.0,O10516,6/21/2024,Pending,0.0,4581.0,No
+P103,SKU-1639,Laptop Backpack,Accessories,Pune,237.0,45.0,1.0,O10483,5/3/2024,Delivered,10.0,5801.0,Yes
+P106,SKU-9231,Office Chair,Furniture,Bangalore,178.0,64.0,2.0,,1/7/2024,,0.0,3012.0,Yes
+P111,,Power Bank,Electronics,Bangalore,-11.0,76.0,3.0,O10157,2/16/2024,Pending,0.0,2154.0,No
+P104,SKU-5695,Smart Watch,Electronics,Hyderabad,108.0,48.0,1.0,O10440,6/25/2024,Delivered,3.0,6825.0,No
+P109,SKU-9625,Gaming Keyboard,Electronics,Bangalore,161.0,,4.0,O10257,1/21/2024,,4.0,3456.0,No
+P113,SKU-7484,Air Fryer,Home & Kitchen,Delhi,-16.0,35.0,5.0,O10539,6/25/2024,Delivered,2.0,4293.0,Yes
+P106,SKU-8994,Office Chair,Furniture,Pune,-2.0,109.0 ,1.0,O10102,3/1/2024,Pending,0.0,5570.0,No
+P111,SKU-6198,Power Bank,Electronics,Chennai,293.0,94.0,4.0,O10052,5/20/2024,Delivered,9.0,4052.0,Yes
+P102,SKU-3611,Bluetooth Headphones,Electronics,Mumbai,193.0,105.0,4.0,O10419,5/25/2024,Delivered,1.0,5957.0,No
+P102,SKU-2678,Bluetooth Headphones,Electronics,Mumbai,140.0,77.0,3.0,O10312,2/5/2024,Delivered,,3535.0,Yes
+P114,SKU-8935,Dumbbell Set,Fitness,Bangalore,150.0 ,100.0,5.0,O10097,4/6/2024,Delivered,9.0,4130.0,No
+P108,SKU-8848,LED Desk Lamp,Home & Kitchen,Mumbai,24.0,65.0,4.0,O10347,,Delivered,9.0,3834.0,Yes
+,SKU-9984,Running Shoes,Footwear,Hyderabad,146.0,78.0,5.0,O10128,5/15/2024,Pending,0.0,2815.0,No
+P113,SKU-2293,Air Fryer,Home & Kitchen,Chennai,288.0,53.0,5.0,O10177,3/16/2024,Delivered,,3031.0,Yes
+P115,SKU-9138,Formal Shoes,Footwear,Bangalore,97.0,107.0,3.0,O10110,2/26/2024,Pending,0.0,5615.0,Yes
+P102,SKU-8723,Bluetooth Headphones,Electronics,Chennai,67.0,58.0,4.0,O10480,6/2/2024,Delivered,,1569.0,Yes
+P109,SKU-5631,Gaming Keyboard,Electronics,Bangalore,35.0,91.0,1.0,O10392,3/27/2024,Pending,0.0,2664.0,No
+P101,,Wireless Mouse,Electronics,Pune,,113.0 ,4.0,,4/14/2024,Delivered,4.0,6009.0,No
+P110,SKU-8126,Yoga Mat,Fitness,Pune,253.0,69.0,3.0,O10525,5/3/2024,Pending,0.0,4820.0,Yes
+P103,SKU-4770,Laptop Backpack,Accessories,Pune,266.0,115.0,3.0,O10142,1/19/2024,Delivered,9.0,3652.0,Yes
+P113,,Air Fryer,Home & Kitchen,Pune,54.0,86.0,1.0,O10569,2/29/2024,Delivered,6.0,2035.0,No
+P103,SKU-5374,Laptop Backpack,Accessories,Hyderabad,16.0,107.0 ,2.0,O10006,5/16/2024,Delivered,4.0,6373.0,Yes
+P103,SKU-7383,Laptop Backpack,Accessories,Bangalore,164.0,43.0,1.0,O10267,1/2/2024,Delivered,3.0,2925.0,No
+P112,SKU-8081,Travel Trolley,Accessories,Chennai,80.0,48.0,2.0,O10512,5/1/2024,Delivered,4.0,7000.0,Yes
+P114,SKU-6671,Dumbbell Set,Fitness,Delhi,121.0,54.0,1.0,O10237,1/9/2024,Delivered,8.0,7031.0,No
+P102,SKU-8357,Bluetooth Headphones,Electronics,Delhi,65.0,57.0,2.0,O10375,2/2/2024,Cancelled,0.0,749.0,No
+P107,SKU-6507,Water Bottle,Home & Kitchen,Hyderabad,187.0,51.0,4.0,O10058,2/2/2024,Delivered,7.0,5497.0,Yes
+P108,SKU-8575,LED Desk Lamp,Home & Kitchen,Hyderabad,137.0,32.0,4.0,O10232,3/6/2024,Pending,0.0,7088.0,Yes
+,SKU-2680,Power Bank,Electronics,Mumbai,273.0,,4.0,O10077,5/2/2024,Delayed,8.0,4008.0,No
+P102,SKU-7939,Bluetooth Headphones,Electronics,Bangalore,158.0,54.0,3.0,O10568,3/29/2024,Pending,0.0,5265.0,Yes
+P113,,Air Fryer,Home & Kitchen,Delhi,29.0,80.0,3.0,O10203,3/27/2024,Delivered,10.0,,No
+P108,SKU-3435,LED Desk Lamp,Home & Kitchen,Pune,293.0,36.0,1.0,O10423,6/13/2024,Delivered,7.0,1685.0,No
+P101,,Wireless Mouse,Electronics,Hyderabad,104.0,96.0,2.0,O10284,5/21/2024,Delayed,2.0,1711.0,No
+P115,SKU-8307,Formal Shoes,Footwear,Delhi,nan ,108.0,5.0,O10346,6/6/2024,Delivered,5.0,,No
+P104,SKU-1106,Smart Watch,Electronics,Delhi,196.0,73.0,3.0,O10002,2/9/2024,Delivered,5.0,2163.0,No
+P102,SKU-3136,Bluetooth Headphones,Electronics,Delhi,226.0,101.0,2.0,O10566,5/4/2024,Delivered,7.0,3638.0,Yes
+P101,SKU-8739,Wireless Mouse,Electronics,Mumbai,50.0,30.0,5.0,O10217,2/10/2024,Delivered,6.0,3733.0,No
+P104,SKU-3851,Smart Watch,Electronics,Pune,271.0,68.0 ,4.0,O10046,5/20/2024,,7.0,7229.0,Yes
+P113,SKU-5947,Air Fryer,Home & Kitchen,Pune,273.0,31.0,3.0,O10225,6/16/2024,Delivered,6.0,3345.0,Yes
+P102,SKU-6539,Bluetooth Headphones,Electronics,Mumbai,281.0,100.0,2.0,O10018,5/30/2024,Delivered,2.0,2204.0,Yes
+P104,SKU-4906,Smart Watch,,Chennai,298.0,88.0,1.0,O10168,1/29/2024,Delivered,1.0,7254.0,No
+P109,SKU-2879,Gaming Keyboard,Electronics,Hyderabad,157.0,87.0,2.0,O10449,6/13/2024,Delayed,1.0,5427.0,Yes
+P109,SKU-3298,Gaming Keyboard,Electronics,Delhi,141.0,87.0,5.0,O10292,1/14/2024,Delivered,5.0,7490.0,No
+P106,SKU-2738,Office Chair,Furniture,Bangalore,134.0,,,O10457,3/13/2024,Cancelled,0.0,6669.0,No
+P104,SKU-7199,Smart Watch,Electronics,Delhi,114.0,40.0 ,4.0,O10529,6/9/2024,Delivered,7.0,,No
+,SKU-2373,Running Shoes,Footwear,Bangalore,286.0,99.0,4.0,O10486,3/6/2024,Delivered,4.0,1948.0,Yes
+P109,SKU-2599,,Electronics,,211.0,70.0 ,1.0,O10283,3/17/2024,Delivered,8.0,766.0,Yes
+P108,SKU-5501,LED Desk Lamp,Home & Kitchen,Chennai,73.0,95.0,3.0,O10506,,Delayed,10.0,2219.0,Yes
+P107,SKU-1271,Water Bottle,Home & Kitchen,Delhi,247.0,94.0,4.0,O10482,2/8/2024,Delivered,2.0,5360.0,Yes
+P107,SKU-3332,Water Bottle,Home & Kitchen,Hyderabad,123.0,41.0,1.0,O10334,,Delivered,1.0,7750.0,No
+P102,SKU-4920,Bluetooth Headphones,Electronics,Hyderabad,61.0,69.0,,O10093,1/4/2024,Delivered,10.0,4924.0,No
+P113,SKU-9011,Air Fryer,,Bangalore,225.0,74.0,5.0,O10213,3/11/2024,Delivered,4.0,2757.0,Yes
+P108,SKU-4700,LED Desk Lamp,Home & Kitchen,Bangalore,21.0,113.0,1.0,O10258,1/24/2024,Pending,0.0,3720.0,No
+,SKU-7931,Yoga Mat,,Delhi,229.0,111.0,5.0,O10291,6/26/2024,Delivered,7.0,7929.0,Yes
+P115,SKU-8955,Formal Shoes,Footwear,Pune,291.0,90.0,1.0,O10379,2/14/2024,,7.0,2656.0,No
+P108,SKU-3344,LED Desk Lamp,Home & Kitchen,Delhi,216.0,111.0,,O10106,4/27/2024,Cancelled,0.0,2491.0,Yes
+P108,SKU-7242,LED Desk Lamp,Home & Kitchen,Hyderabad,170.0,43.0,2.0,O10115,4/30/2024,Delivered,5.0,605.0,No
+P114,SKU-6439,Dumbbell Set,Fitness,Pune,297.0,106.0,4.0,O10428,6/17/2024,Delivered,8.0,3376.0,
+P113,SKU-6978,,Home & Kitchen,Mumbai,171.0 ,120.0,4.0,O10356,5/30/2024,Delivered,9.0,,No
+P115,SKU-9962,Formal Shoes,Footwear,Mumbai,153.0,106.0,5.0,O10365,5/3/2024,Delivered,2.0,6171.0,Yes
+P102,SKU-3442,Bluetooth Headphones,Electronics,Pune,-2.0,77.0,5.0,O10036,5/21/2024,Cancelled,0.0,1613.0,
+P106,,Office Chair,Furniture,Mumbai,96.0 ,58.0,2.0,O10407,2/24/2024,Delayed,3.0,6413.0,Yes
+P113,,Air Fryer,Home & Kitchen,Chennai,236.0,35.0,1.0,O10204,,Delivered,10.0,1522.0,No
+P109,SKU-9683,Gaming Keyboard,Electronics,Delhi,178.0,61.0,3.0,O10244,2/22/2024,Delivered,7.0,3105.0,Yes
+P105,SKU-9590,,Footwear,Chennai,48.0,94.0,4.0,O10221,3/10/2024,Delivered,9.0,1979.0,Yes
+P114,SKU-4555,Dumbbell Set,Fitness,Chennai,86.0,72.0,3.0,O10246,1/4/2024,Delivered,10.0,2135.0,Yes
+P112,SKU-7347,Travel Trolley,Accessories,Hyderabad,287.0,107.0,3.0,O10434,5/9/2024,Delayed,,7620.0,No
+P110,SKU-3516,Yoga Mat,Fitness,Mumbai,164.0 ,30.0,4.0,O10368,1/23/2024,Delivered,8.0,2812.0,No
+P109,SKU-2615,Gaming Keyboard,Electronics,Hyderabad,220.0,70.0,2.0,O10249,4/4/2024,Delayed,8.0,2963.0,No
+P114,SKU-4538,Dumbbell Set,Fitness,Delhi,148.0,48.0,5.0,O10122,1/1/2024,Delayed,4.0,2671.0,Yes
+P109,SKU-2317,Gaming Keyboard,Electronics,Pune,0.0,85.0,3.0,O10086,6/3/2024,Delivered,8.0,2451.0,Yes
+P114,SKU-8391,Dumbbell Set,Fitness,Bangalore,-7.0,83.0,,O10164,,Delivered,4.0,4512.0,No
+P101,SKU-6231,Wireless Mouse,Electronics,Pune,269.0,49.0,3.0,O10563,5/8/2024,Delivered,1.0,6116.0,Yes
+P103,SKU-7251,Laptop Backpack,Accessories,Mumbai,42.0,61.0,4.0,O10535,4/23/2024,Delivered,5.0,2424.0,Yes
+P105,SKU-7014,Running Shoes,Footwear,Chennai,-20.0,111.0,5.0,O10545,4/7/2024,Delayed,9.0,6410.0,Yes
+P104,SKU-7590,Smart Watch,Electronics,Chennai,99.0,99.0,2.0,O10239,1/15/2024,Pending,,1547.0,No
+P104,SKU-9364,Smart Watch,Electronics,Pune,98.0,108.0,2.0,O10495,6/21/2024,Delivered,10.0,695.0,No
+,SKU-4272,Air Fryer,Home & Kitchen,Bangalore,247.0,55.0,3.0,O10412,,Delivered,4.0,3756.0,No
+P105,SKU-9808,Running Shoes,Footwear,Bangalore,66.0,88.0,5.0,O10295,5/6/2024,Delivered,4.0,,Yes
+P106,SKU-8331,Office Chair,Furniture,Chennai,-20.0,34.0,3.0,O10557,6/1/2024,Cancelled,0.0,533.0,Yes
+P106,SKU-5581,Office Chair,Furniture,Pune,121.0,101.0,1.0,O10070,5/12/2024,Delayed,6.0,1965.0,Yes
+P101,SKU-4511,Wireless Mouse,Electronics,Delhi,95.0,116.0,2.0,O10388,3/9/2024,Delivered,10.0,5737.0,No
+P104,SKU-3872,Smart Watch,Electronics,Chennai,137.0,118.0,3.0,O10358,2/2/2024,Pending,0.0,1855.0,Yes
+P114,SKU-7274,Dumbbell Set,Fitness,Delhi,190.0 ,35.0 ,3.0,,5/1/2024,Delivered,4.0,6177.0,
+P107,SKU-1568,Water Bottle,Home & Kitchen,,272.0,96.0,5.0,O10374,6/22/2024,Cancelled,0.0,5481.0,Yes
+P103,SKU-5136,Laptop Backpack,Accessories,Chennai,,38.0,4.0,O10078,5/5/2024,Cancelled,0.0,1006.0,Yes
+P103,SKU-5915,Laptop Backpack,Accessories,Chennai,141.0,39.0,1.0,O10030,4/27/2024,Pending,0.0,5488.0,Yes
+P104,SKU-3430,Smart Watch,Electronics,Mumbai,107.0,75.0,4.0,O10340,5/11/2024,Delayed,6.0,801.0,No
+P112,SKU-8259,Travel Trolley,Accessories,Delhi,168.0,105.0,5.0,O10443,6/3/2024,Delivered,10.0,2009.0,Yes
+P108,SKU-8267,LED Desk Lamp,Home & Kitchen,Mumbai,21.0,71.0 ,5.0,O10127,2/7/2024,,0.0,938.0,Yes
+P109,SKU-3931,Gaming Keyboard,Electronics,Pune,265.0,,1.0,O10553,6/12/2024,Pending,0.0,5123.0,No
+P101,SKU-4811,Wireless Mouse,Electronics,Pune,288.0,33.0,5.0,O10001,2/20/2024,Delivered,4.0,6265.0,No
+P110,SKU-3516,Yoga Mat,Fitness,Mumbai,164.0,30.0,4.0,O10368,1/23/2024,Delivered,8.0,2812.0,No
+P112,SKU-8811,Travel Trolley,Accessories,Pune,251.0,50.0,1.0,O10027,5/10/2024,Delivered,1.0,1056.0,Yes
+P106,SKU-3634,Office Chair,Furniture,Bangalore,,118.0,4.0,O10089,3/14/2024,Pending,0.0,5827.0,No
+P115,SKU-3604,Formal Shoes,Footwear,Bangalore,27.0,113.0,3.0,O10308,3/5/2024,Pending,0.0,1075.0,No
+P108,SKU-6632,LED Desk Lamp,Home & Kitchen,Chennai,261.0,72.0,3.0,O10073,6/28/2024,Pending,0.0,4117.0,No
+P110,SKU-4279,Yoga Mat,Fitness,Mumbai,49.0 ,39.0,4.0,O10184,2/14/2024,Delivered,8.0,7761.0,No
+P107,SKU-7338,Water Bottle,Home & Kitchen,Bangalore,109.0,32.0,3.0,O10171,1/18/2024,Delayed,1.0,3224.0,Yes
+P102,SKU-1035,Bluetooth Headphones,Electronics,Bangalore,161.0,111.0,3.0,O10429,5/20/2024,Delivered,4.0,4676.0,No
+P105,SKU-8260,Running Shoes,Footwear,Hyderabad,44.0,46.0,5.0,O10523,2/13/2024,Delivered,5.0,634.0,Yes
+P112,SKU-2642,Travel Trolley,Accessories,Delhi,240.0,81.0 ,3.0,O10491,5/20/2024,Delivered,3.0,5430.0,
+P107,SKU-3250,Water Bottle,Home & Kitchen,Delhi,155.0,82.0,5.0,O10400,4/27/2024,Delivered,3.0,,No
+P114,SKU-9889,Dumbbell Set,Fitness,Chennai,191.0,36.0 ,2.0,,5/12/2024,Delivered,1.0,3363.0,No
+P111,SKU-6384,Power Bank,Electronics,Bangalore,204.0,109.0 ,3.0,O10417,1/24/2024,Pending,0.0,3452.0,No
+P103,SKU-2841,Laptop Backpack,Accessories,Hyderabad,7.0,61.0,5.0,O10570,2/7/2024,Delayed,2.0,7516.0,No
+P108,SKU-9408,LED Desk Lamp,Home & Kitchen,Pune,35.0,87.0,5.0,O10125,2/26/2024,Delivered,6.0,5438.0,Yes
+P110,SKU-7161,Yoga Mat,Fitness,Bangalore,181.0 ,76.0,1.0,O10275,5/24/2024,Delayed,6.0,2036.0,Yes
+P103,SKU-7291,Laptop Backpack,Accessories,,199.0,70.0,2.0,O10315,3/4/2024,Delayed,10.0,2668.0,Yes
+P113,SKU-2827,Air Fryer,Home & Kitchen,Bangalore,202.0,50.0,4.0,O10012,1/1/2024,Pending,0.0,6315.0,No
+P101,SKU-5999,Wireless Mouse,Electronics,Chennai,221.0,32.0,3.0,O10571,2/23/2024,Delivered,2.0,6462.0,Yes
+P107,SKU-1408,Water Bottle,Home & Kitchen,Delhi,212.0,105.0,2.0,O10592,4/26/2024,Delivered,8.0,1138.0,No
+P108,SKU-5873,LED Desk Lamp,Home & Kitchen,Chennai,17.0,118.0,1.0,O10195,2/10/2024,Delivered,7.0,4001.0,No
+P105,SKU-2252,Running Shoes,Footwear,Hyderabad,18.0,32.0,5.0,O10467,6/10/2024,Pending,0.0,655.0,No
+P110,SKU-4943,Yoga Mat,Fitness,Delhi,14.0,42.0,5.0,O10238,1/9/2024,Delayed,1.0,4057.0,Yes
+P103,SKU-7511,Laptop Backpack,Accessories,Pune,167.0,41.0,4.0,O10114,1/4/2024,Delayed,4.0,2566.0,Yes
+P106,SKU-1136,Office Chair,Furniture,Hyderabad,nan ,91.0,3.0,O10527,1/3/2024,Delivered,9.0,6674.0,No
+P111,SKU-3711,Power Bank,Electronics,Mumbai,182.0,110.0,3.0,O10309,6/28/2024,Cancelled,0.0,6586.0,Yes
+P107,SKU-6129,Water Bottle,Home & Kitchen,Pune,199.0,103.0 ,4.0,O10143,6/12/2024,Delivered,2.0,3821.0,No
+P111,SKU-5327,Power Bank,Electronics,Chennai,5.0,42.0,2.0,O10415,1/11/2024,Delivered,,7381.0,No
+P106,SKU-9689,Office Chair,Furniture,,286.0,71.0,4.0,O10014,1/5/2024,Delayed,9.0,1316.0,No
+P103,SKU-7251,Laptop Backpack,Accessories,Mumbai,42.0,,4.0,O10535,4/23/2024,Delivered,5.0,2424.0,
+,SKU-4841,LED Desk Lamp,Home & Kitchen,Bangalore,151.0,70.0,5.0,O10054,1/21/2024,Delivered,5.0,1533.0,Yes
+P110,SKU-4728,Yoga Mat,Fitness,Hyderabad,6.0,104.0,4.0,O10208,2/13/2024,Delivered,10.0,4694.0,No
+P115,SKU-3110,Formal Shoes,Footwear,Mumbai,149.0,45.0,1.0,O10344,4/28/2024,Pending,0.0,814.0,Yes
+P106,SKU-8770,Office Chair,Furniture,Mumbai,26.0,40.0,1.0,O10131,4/20/2024,Cancelled,0.0,1191.0,
+P103,SKU-7581,Laptop Backpack,Accessories,Mumbai,182.0,72.0,2.0,O10380,1/13/2024,Pending,0.0,6509.0,No
+P101,SKU-4268,Wireless Mouse,Electronics,Mumbai,141.0,69.0,5.0,O10174,4/11/2024,Delivered,1.0,7079.0,No
+P111,SKU-4450,Power Bank,Electronics,Delhi,183.0,43.0,1.0,O10521,1/17/2024,Delivered,2.0,7598.0,No
+P106,SKU-9501,,Furniture,Bangalore,20.0,62.0,2.0,O10191,6/11/2024,Cancelled,0.0,4912.0,No
+P107,SKU-4977,,Home & Kitchen,Pune,246.0,51.0,4.0,O10270,2/13/2024,Delayed,9.0,1537.0,No
+P114,SKU-2944,Dumbbell Set,Fitness,Chennai,-11.0,43.0,4.0,O10426,4/15/2024,Delivered,6.0,693.0,Yes
+P103,SKU-2801,Laptop Backpack,Accessories,Hyderabad,-7.0,46.0,1.0,O10123,4/1/2024,Delivered,3.0,6871.0,Yes
+P112,SKU-2391,Travel Trolley,Accessories,Mumbai,59.0,50.0,5.0,O10138,1/13/2024,Delivered,10.0,5921.0,Yes
+P101,SKU-3692,Wireless Mouse,Electronics,Hyderabad,104.0,96.0,2.0,O10284,5/21/2024,Delayed,2.0,1711.0,No
+P104,SKU-8611,Smart Watch,,Mumbai,265.0,61.0 ,1.0,O10051,4/26/2024,Delivered,9.0,1492.0,No
+P103,SKU-5742,Laptop Backpack,Accessories,,-16.0,68.0 ,,O10220,6/3/2024,Cancelled,0.0,1279.0,No
+P112,SKU-6352,Travel Trolley,Accessories,Hyderabad,192.0,,2.0,O10112,2/3/2024,,5.0,6843.0,No
+P101,SKU-8381,Wireless Mouse,Electronics,Chennai,96.0 ,75.0,5.0,O10265,4/6/2024,Pending,0.0,3937.0,Yes
+P103,SKU-4842,Laptop Backpack,Accessories,Mumbai,125.0,109.0,1.0,O10463,2/19/2024,Pending,0.0,3003.0,No
+P106,SKU-9123,Office Chair,Furniture,Pune,295.0,55.0,4.0,O10272,1/28/2024,Delivered,4.0,1509.0,No
+P102,SKU-2989,Bluetooth Headphones,Electronics,Mumbai,11.0,58.0,2.0,O10342,2/20/2024,Delayed,3.0,7147.0,No
+P101,SKU-9777,Wireless Mouse,Electronics,Bangalore,-12.0 ,94.0,4.0,O10256,2/15/2024,Delivered,5.0,,Yes
+P113,SKU-9674,,Home & Kitchen,Bangalore,183.0,70.0,3.0,,3/4/2024,Delivered,3.0,1329.0,Yes
+P110,SKU-3950,Yoga Mat,Fitness,,69.0,40.0,5.0,,4/7/2024,Pending,0.0,5476.0,Yes
+P106,SKU-5794,Office Chair,Furniture,,273.0,64.0,5.0,O10300,6/22/2024,Cancelled,0.0,7077.0,Yes
+P109,SKU-5157,Gaming Keyboard,Electronics,Bangalore,275.0,74.0,4.0,O10490,2/5/2024,Pending,0.0,7404.0,Yes
+P112,SKU-1941,Travel Trolley,Accessories,Delhi,233.0,86.0,1.0,O10494,2/21/2024,Cancelled,0.0,7367.0,No
+,SKU-6224,Smart Watch,Electronics,Pune,286.0,116.0 ,3.0,O10240,3/1/2024,Delayed,10.0,2872.0,Yes
+P101,SKU-4312,Wireless Mouse,Electronics,Pune,254.0,49.0,2.0,O10230,3/24/2024,Delayed,9.0,7399.0,No
+P104,SKU-8199,Smart Watch,Electronics,Pune,247.0 ,108.0,,O10153,4/3/2024,Pending,0.0,3454.0,No
+P108,SKU-1908,LED Desk Lamp,Home & Kitchen,Chennai,270.0 ,51.0,3.0,O10326,2/10/2024,Delivered,6.0,2489.0,Yes
+P113,SKU-3440,Air Fryer,Home & Kitchen,Pune,243.0,,3.0,O10205,6/5/2024,Delivered,8.0,3009.0,Yes
+P107,SKU-6985,Water Bottle,,Pune,19.0,96.0,,O10474,4/6/2024,Pending,,7832.0,Yes
+P107,SKU-8272,Water Bottle,Home & Kitchen,Chennai,65.0,40.0,5.0,O10294,1/8/2024,Pending,0.0,6919.0,Yes
+P105,SKU-1932,,Footwear,Bangalore,126.0,39.0,1.0,O10150,6/6/2024,Delivered,1.0,5266.0,No
+P103,SKU-2841,Laptop Backpack,Accessories,Hyderabad,,61.0,5.0,O10570,2/7/2024,Delayed,2.0,7516.0,No
+P114,SKU-9452,Dumbbell Set,Fitness,Mumbai,125.0,40.0,2.0,O10163,3/10/2024,Delivered,2.0,4080.0,Yes
+P101,SKU-9991,Wireless Mouse,,Hyderabad,291.0,97.0,4.0,O10167,1/29/2024,Delivered,3.0,6758.0,No
+P114,SKU-5990,Dumbbell Set,Fitness,Pune,267.0,56.0,4.0,O10427,3/28/2024,Delivered,10.0,3376.0,Yes
+P107,SKU-5902,Water Bottle,Home & Kitchen,Pune,152.0 ,94.0,5.0,O10206,5/16/2024,Cancelled,0.0,4412.0,No
+P107,SKU-8842,Water Bottle,Home & Kitchen,,190.0,82.0,,O10188,1/19/2024,Cancelled,0.0,1426.0,No
+P102,SKU-9542,Bluetooth Headphones,Electronics,Hyderabad,120.0,63.0 ,5.0,O10473,5/19/2024,,0.0,5070.0,Yes
+,SKU-9568,LED Desk Lamp,Home & Kitchen,Pune,112.0,51.0,3.0,O10324,2/2/2024,,0.0,6542.0,No
+P104,,Smart Watch,Electronics,Mumbai,182.0,69.0,3.0,O10145,2/26/2024,Delivered,7.0,3128.0,Yes
+P106,SKU-8145,Office Chair,Furniture,Bangalore,164.0,47.0 ,3.0,O10465,5/2/2024,Delivered,4.0,4191.0,No
+P101,SKU-8625,Wireless Mouse,Electronics,Bangalore,61.0,81.0,5.0,O10226,6/29/2024,Pending,0.0,6706.0,No
+P103,SKU-4920,Laptop Backpack,Accessories,Delhi,5.0,115.0,5.0,O10216,2/27/2024,Delivered,,5626.0,Yes
+P111,SKU-7825,Power Bank,Electronics,Pune,-5.0,,5.0,O10194,3/15/2024,Delivered,10.0,5658.0,No
+P101,SKU-4189,Wireless Mouse,Electronics,Bangalore,,66.0,1.0,O10202,4/8/2024,Pending,0.0,4530.0,No
+P113,SKU-6744,Air Fryer,,Hyderabad,292.0,110.0,4.0,O10298,2/12/2024,Delayed,4.0,5447.0,Yes
+P115,SKU-4635,Formal Shoes,Footwear,Delhi,141.0,32.0,3.0,O10558,5/21/2024,Delivered,5.0,4588.0,Yes
+P104,,Smart Watch,Electronics,Bangalore,216.0,51.0,4.0,O10590,3/16/2024,Delivered,,5422.0,Yes
+P113,SKU-2284,Air Fryer,Home & Kitchen,Chennai,294.0,66.0,4.0,O10517,6/10/2024,Pending,0.0,1586.0,
+P104,SKU-6876,Smart Watch,Electronics,Chennai,32.0,108.0,5.0,O10441,2/27/2024,Delayed,1.0,6481.0,No
+P109,SKU-8976,Gaming Keyboard,Electronics,Chennai,289.0,30.0,,O10475,2/5/2024,Delivered,6.0,4003.0,Yes
+P109,SKU-8767,Gaming Keyboard,Electronics,,68.0,106.0,1.0,O10389,2/27/2024,Delivered,1.0,2467.0,No
+P112,SKU-3468,Travel Trolley,Accessories,Mumbai,232.0,57.0,3.0,O10533,,Delivered,,2952.0,No
+P105,SKU-5687,Running Shoes,Footwear,,4.0,113.0,3.0,O10175,,Delivered,4.0,1419.0,No
+P102,SKU-9383,Bluetooth Headphones,Electronics,Pune,61.0,78.0,5.0,O10594,4/7/2024,Delivered,,759.0,Yes
+P102,SKU-8560,Bluetooth Headphones,Electronics,Mumbai,58.0,93.0,3.0,O10094,5/10/2024,Delivered,2.0,6178.0,No
+P113,SKU-2341,Air Fryer,Home & Kitchen,Pune,208.0,97.0,3.0,O10229,1/20/2024,Delivered,10.0,7914.0,Yes
+P107,,Water Bottle,Home & Kitchen,Pune,58.0,116.0,4.0,O10181,4/4/2024,Cancelled,0.0,3447.0,No
+P113,SKU-2735,Air Fryer,Home & Kitchen,Mumbai,30.0,63.0,2.0,,5/10/2024,Delivered,7.0,6518.0,Yes
+P111,SKU-8821,Power Bank,Electronics,Chennai,-18.0,34.0,5.0,O10403,2/21/2024,Delivered,7.0,6385.0,No
+P106,,Office Chair,Furniture,Bangalore,9.0,108.0,3.0,O10551,5/15/2024,Pending,0.0,,Yes
+P112,SKU-7121,Travel Trolley,Accessories,Chennai,261.0,90.0,5.0,O10228,6/19/2024,Cancelled,0.0,7163.0,Yes
+P114,SKU-9617,Dumbbell Set,Fitness,Chennai,-13.0,48.0,4.0,O10100,6/16/2024,Delayed,2.0,1664.0,Yes
+P106,SKU-2916,Office Chair,,Delhi,171.0,118.0,2.0,O10290,5/10/2024,Delivered,5.0,,
+P115,SKU-9498,Formal Shoes,Footwear,Pune,182.0,35.0,5.0,O10589,4/9/2024,Cancelled,0.0,4628.0,Yes
+P105,SKU-4063,Running Shoes,Footwear,Delhi,243.0,45.0,4.0,O10444,1/11/2024,Delivered,2.0,3910.0,No
+P107,SKU-3703,Water Bottle,Home & Kitchen,Pune,202.0,50.0,1.0,O10366,1/26/2024,Cancelled,0.0,3112.0,Yes
+P113,SKU-7484,Air Fryer,Home & Kitchen,,-16.0,35.0 ,5.0,O10539,6/25/2024,Delivered,2.0,4293.0,Yes
+P112,SKU-5246,Travel Trolley,Accessories,,121.0,96.0,4.0,O10053,6/9/2024,Delayed,8.0,2359.0,No
+P112,SKU-7021,Travel Trolley,Accessories,Pune,93.0,58.0,2.0,O10227,5/2/2024,Delivered,5.0,1654.0,No
+P105,SKU-7506,Running Shoes,Footwear,Pune,32.0 ,30.0,5.0,O10391,6/18/2024,Pending,0.0,7308.0,No
+P113,SKU-6400,Air Fryer,Home & Kitchen,Hyderabad,,,3.0,O10132,6/19/2024,Delivered,1.0,6546.0,No
+P102,SKU-4524,Bluetooth Headphones,Electronics,Chennai,194.0,88.0,3.0,O10137,2/10/2024,Pending,0.0,3431.0,No
+P107,SKU-1857,Water Bottle,Home & Kitchen,Hyderabad,151.0,38.0,3.0,O10154,1/25/2024,Delivered,6.0,4970.0,No
+P105,SKU-4768,Running Shoes,Footwear,Chennai,271.0,61.0,4.0,O10251,5/20/2024,Delivered,6.0,5762.0,No
+P110,SKU-7161,Yoga Mat,Fitness,Bangalore,181.0 ,76.0,1.0,O10275,5/24/2024,Delayed,6.0,2036.0,Yes
+P108,SKU-5501,LED Desk Lamp,Home & Kitchen,Chennai,73.0 ,95.0,3.0,O10506,4/11/2024,Delayed,10.0,2219.0,Yes
+P113,SKU-3253,Air Fryer,Home & Kitchen,Delhi,19.0 ,67.0,1.0,O10158,5/9/2024,Delivered,4.0,6715.0,Yes
+P105,SKU-2036,Running Shoes,Footwear,Delhi,202.0 ,65.0,4.0,O10271,3/17/2024,Delivered,3.0,4366.0,Yes
+P101,SKU-4228,Wireless Mouse,Electronics,Bangalore,200.0,38.0,3.0,O10044,6/8/2024,Delivered,9.0,2971.0,Yes
+P112,SKU-3749,Travel Trolley,Accessories,Pune,290.0,44.0,2.0,O10063,3/20/2024,Delivered,6.0,1285.0,Yes
+P109,SKU-3695,Gaming Keyboard,Electronics,Bangalore,226.0,67.0,3.0,,1/30/2024,Delivered,5.0,4236.0,Yes
+P101,SKU-9856,Wireless Mouse,Electronics,Mumbai,27.0,60.0,2.0,O10024,4/14/2024,Pending,0.0,4378.0,No
+P109,SKU-9609,Gaming Keyboard,Electronics,Chennai,140.0,52.0,4.0,O10211,5/16/2024,Delivered,8.0,3204.0,No
+P112,SKU-4263,Travel Trolley,Accessories,Chennai,227.0,43.0,2.0,O10108,4/7/2024,Delivered,5.0,5085.0,No
+P113,SKU-9209,Air Fryer,Home & Kitchen,Chennai,196.0,,4.0,O10320,1/22/2024,Delivered,5.0,5647.0,Yes
+P110,SKU-4963,Yoga Mat,,Hyderabad,53.0,67.0,4.0,O10169,1/1/2024,Delivered,9.0,5436.0,No
+P103,SKU-5978,Laptop Backpack,Accessories,Mumbai,107.0,,5.0,O10079,4/16/2024,Delivered,10.0,5366.0,Yes
+P112,SKU-9099,Travel Trolley,Accessories,Chennai,104.0,48.0,1.0,O10050,1/28/2024,Pending,0.0,6776.0,No
+P111,SKU-8932,Power Bank,Electronics,Delhi,106.0,65.0,5.0,O10212,3/17/2024,,5.0,2242.0,No
+P107,SKU-3441,Water Bottle,Home & Kitchen,Bangalore,52.0 ,39.0,1.0,O10084,2/12/2024,Delivered,4.0,6893.0,No
+P107,SKU-6155,Water Bottle,Home & Kitchen,Delhi,235.0,80.0,4.0,O10008,2/6/2024,Delivered,4.0,2569.0,Yes
+P108,SKU-9666,LED Desk Lamp,Home & Kitchen,Mumbai,263.0,68.0,1.0,O10032,2/4/2024,Delayed,5.0,2566.0,
+P107,SKU-3492,Water Bottle,Home & Kitchen,Chennai,,46.0,5.0,,5/31/2024,Cancelled,0.0,3119.0,Yes
+P110,SKU-1359,Yoga Mat,Fitness,Hyderabad,182.0 ,65.0,1.0,O10109,5/24/2024,Delivered,5.0,7486.0,Yes
+P115,SKU-3972,Formal Shoes,Footwear,Delhi,269.0,114.0,4.0,O10136,1/18/2024,Delivered,1.0,1562.0,Yes
+,SKU-1752,Laptop Backpack,Accessories,Chennai,15.0 ,89.0,3.0,O10330,3/20/2024,Delivered,9.0,3081.0,Yes
+P106,SKU-5215,Office Chair,Furniture,Hyderabad,75.0,31.0 ,3.0,O10222,3/16/2024,Delivered,8.0,5051.0,Yes
+P102,SKU-4853,Bluetooth Headphones,Electronics,Chennai,41.0,,2.0,O10028,5/28/2024,Pending,0.0,5270.0,Yes
+P110,SKU-4063,Yoga Mat,Fitness,,146.0 ,55.0,4.0,O10287,1/30/2024,Delivered,9.0,2549.0,No
+P113,SKU-6507,Air Fryer,Home & Kitchen,Mumbai,223.0,103.0,1.0,O10565,5/20/2024,Delivered,3.0,3670.0,No
+P104,SKU-4505,Smart Watch,,Mumbai,192.0,82.0,3.0,O10055,5/18/2024,,3.0,4216.0,No
+P103,SKU-2388,Laptop Backpack,Accessories,Bangalore,266.0,78.0,3.0,O10156,2/2/2024,Pending,0.0,5889.0,
+P107,SKU-3378,Water Bottle,Home & Kitchen,Hyderabad,269.0,50.0 ,3.0,O10581,1/18/2024,Cancelled,0.0,4965.0,Yes
+P106,SKU-3686,Office Chair,Furniture,Hyderabad,43.0,41.0,1.0,O10593,6/29/2024,,0.0,4081.0,No
+P107,SKU-2559,Water Bottle,Home & Kitchen,,89.0,91.0,1.0,O10310,2/3/2024,Pending,,5263.0,Yes
+P111,,Power Bank,Electronics,Mumbai,100.0,116.0,3.0,O10048,2/27/2024,Delivered,9.0,7007.0,Yes
+P104,SKU-8438,Smart Watch,,Mumbai,99.0,63.0,5.0,O10083,6/18/2024,Delivered,5.0,6985.0,Yes
+,SKU-1517,Laptop Backpack,Accessories,Pune,36.0,54.0,1.0,O10209,4/22/2024,Delayed,4.0,2969.0,No
+P114,SKU-9511,Dumbbell Set,Fitness,Mumbai,31.0,59.0,5.0,O10552,4/8/2024,Delivered,4.0,1952.0,Yes
+P115,SKU-3546,Formal Shoes,Footwear,Bangalore,124.0,107.0,2.0,O10033,3/28/2024,Delivered,9.0,2067.0,No
+P111,SKU-2856,Power Bank,Electronics,Chennai,225.0,91.0,2.0,O10477,5/31/2024,Delivered,6.0,1720.0,No
+P104,,,Electronics,Hyderabad,156.0,116.0,2.0,O10437,6/15/2024,Pending,0.0,1856.0,No
+P111,SKU-3647,Power Bank,Electronics,Hyderabad,206.0,100.0,4.0,,5/23/2024,Cancelled,0.0,479.0,Yes
+P109,SKU-4287,,Electronics,Bangalore,268.0,68.0,5.0,O10331,3/3/2024,Delivered,6.0,4200.0,
+P112,,Travel Trolley,Accessories,Pune,290.0,44.0,2.0,O10063,3/20/2024,Delivered,6.0,1285.0,Yes
+P103,SKU-4402,Laptop Backpack,Accessories,Hyderabad,226.0,72.0,2.0,O10413,1/1/2024,,8.0,504.0,Yes
+P112,SKU-9589,Travel Trolley,Accessories,Pune,-6.0 ,52.0,2.0,O10384,2/21/2024,Delivered,3.0,7256.0,Yes
+P103,SKU-8763,Laptop Backpack,Accessories,Delhi,,54.0,2.0,,1/9/2024,Delayed,,3747.0,Yes
+P104,SKU-5760,Smart Watch,Electronics,,156.0,116.0,2.0,O10437,,Pending,0.0,1856.0,No
+P105,SKU-4909,Running Shoes,Footwear,Mumbai,105.0,41.0,4.0,O10322,1/30/2024,Pending,0.0,4114.0,Yes
+P103,SKU-2404,Laptop Backpack,Accessories,Hyderabad,156.0,99.0,4.0,O10372,5/30/2024,Delayed,2.0,,Yes
+P101,SKU-7143,Wireless Mouse,Electronics,Pune,240.0,87.0,4.0,O10451,1/12/2024,Cancelled,0.0,,Yes
+P112,SKU-9308,Travel Trolley,Accessories,Bangalore,189.0,71.0,4.0,O10045,6/27/2024,Cancelled,0.0,2822.0,Yes
+P115,SKU-7698,Formal Shoes,Footwear,Delhi,49.0,112.0,4.0,O10234,4/5/2024,Delivered,5.0,7701.0,No
+P111,SKU-2103,Power Bank,Electronics,Bangalore,30.0,55.0,5.0,O10462,5/4/2024,Delivered,5.0,,No
+P114,SKU-2226,Dumbbell Set,Fitness,Chennai,144.0,60.0 ,3.0,O10424,3/12/2024,Delivered,3.0,812.0,Yes
+P103,SKU-5831,Laptop Backpack,Accessories,Mumbai,143.0 ,63.0,1.0,O10364,1/19/2024,Delivered,1.0,3200.0,Yes
+P111,,Power Bank,Electronics,Hyderabad,27.0,81.0,5.0,O10303,3/12/2024,Delivered,8.0,6091.0,No
+P103,SKU-1483,Laptop Backpack,Accessories,Bangalore,191.0,82.0,3.0,,4/23/2024,Delivered,3.0,6508.0,No
+P109,SKU-1611,Gaming Keyboard,Electronics,Delhi,193.0,52.0,1.0,O10219,4/11/2024,Pending,0.0,6854.0,No
+P105,SKU-4288,Running Shoes,Footwear,Hyderabad,296.0,64.0 ,1.0,O10573,4/29/2024,Delivered,5.0,5763.0,Yes
+,,Yoga Mat,Fitness,Pune,1.0,86.0,5.0,O10296,2/25/2024,Delivered,9.0,3882.0,Yes
+P113,SKU-2588,Air Fryer,Home & Kitchen,Hyderabad,200.0,75.0,4.0,O10021,4/15/2024,Delivered,2.0,4225.0,Yes
+,SKU-6875,Laptop Backpack,Accessories,Pune,-6.0,117.0,2.0,O10420,,Pending,0.0,7939.0,No
+P112,SKU-6488,Travel Trolley,Accessories,Chennai,119.0,97.0,1.0,O10325,3/8/2024,Delayed,,6235.0,Yes
+P108,SKU-8648,LED Desk Lamp,Home & Kitchen,Chennai,137.0,93.0,1.0,O10199,1/24/2024,Cancelled,0.0,3621.0,No
+P101,,Wireless Mouse,Electronics,Chennai,38.0,79.0,3.0,O10450,,Pending,0.0,6330.0,No
+P102,SKU-4524,,Electronics,Chennai,194.0,88.0,3.0,O10137,2/10/2024,Pending,0.0,3431.0,No
+P111,SKU-8932,Power Bank,Electronics,Delhi,106.0,65.0 ,5.0,O10212,3/17/2024,Delayed,5.0,2242.0,No
+P114,SKU-2702,Dumbbell Set,Fitness,Delhi,255.0,119.0,4.0,O10453,6/14/2024,Pending,0.0,7090.0,Yes
+P103,SKU-5915,Laptop Backpack,Accessories,Chennai,141.0,39.0,,O10030,4/27/2024,Pending,0.0,5488.0,Yes
+P103,SKU-1771,Laptop Backpack,Accessories,Mumbai,58.0,110.0 ,2.0,O10010,6/23/2024,Delivered,2.0,3858.0,Yes
+,SKU-9071,Power Bank,Electronics,Pune,-17.0,,1.0,O10505,5/3/2024,Cancelled,0.0,3440.0,No
+P103,,Laptop Backpack,Accessories,Hyderabad,261.0,96.0,1.0,O10537,3/5/2024,Pending,0.0,4342.0,No
+P102,SKU-9008,Bluetooth Headphones,,Mumbai,241.0,,1.0,O10231,4/26/2024,Pending,0.0,1480.0,No
+P105,SKU-9246,Running Shoes,Footwear,Pune,136.0,51.0,1.0,O10405,1/12/2024,,7.0,2842.0,No
+P112,SKU-4921,Travel Trolley,Accessories,Chennai,177.0 ,44.0,2.0,O10317,5/7/2024,Delivered,1.0,5627.0,Yes
+P112,SKU-7340,Travel Trolley,Accessories,Pune,40.0,63.0,3.0,O10183,6/29/2024,,9.0,4055.0,
+P109,SKU-4726,Gaming Keyboard,Electronics,Chennai,103.0,103.0,2.0,O10579,4/19/2024,Cancelled,0.0,,No
+P110,SKU-9565,Yoga Mat,Fitness,Bangalore,113.0,56.0,3.0,O10029,3/2/2024,Delivered,10.0,2575.0,No
+P112,SKU-8899,Travel Trolley,Accessories,Chennai,159.0,105.0,5.0,O10485,1/26/2024,,4.0,3885.0,Yes
+P110,SKU-7853,,Fitness,Pune,-2.0,76.0,,O10278,6/1/2024,Delivered,9.0,5627.0,Yes
+P105,SKU-4510,Running Shoes,Footwear,Pune,47.0,103.0,5.0,O10020,5/1/2024,Pending,0.0,,No
+P104,SKU-4068,Smart Watch,Electronics,Hyderabad,23.0,97.0,3.0,O10170,1/18/2024,Pending,0.0,4709.0,Yes
+P114,SKU-2324,Dumbbell Set,Fitness,Chennai,nan ,110.0,2.0,O10401,3/21/2024,,0.0,5597.0,Yes
+P106,SKU-9231,Office Chair,Furniture,Bangalore,178.0,64.0 ,2.0,O10349,1/7/2024,Cancelled,0.0,3012.0,Yes
+P107,SKU-7334,,,Bangalore,75.0 ,93.0,4.0,O10176,4/4/2024,Delayed,8.0,7971.0,No
+P115,SKU-2889,Formal Shoes,Footwear,Delhi,240.0,30.0,1.0,O10327,1/4/2024,Pending,0.0,2403.0,Yes
+P102,SKU-7850,Bluetooth Headphones,Electronics,Delhi,61.0,71.0,5.0,O10198,3/21/2024,Delivered,7.0,1955.0,Yes
+,SKU-3717,Gaming Keyboard,Electronics,Pune,51.0,87.0,2.0,O10470,2/15/2024,Delivered,4.0,5039.0,Yes
+P109,SKU-8258,Gaming Keyboard,Electronics,Bangalore,141.0,100.0,3.0,O10555,4/5/2024,,0.0,3777.0,No
+P111,SKU-7227,Power Bank,Electronics,Mumbai,296.0,67.0,,O10266,1/19/2024,Pending,0.0,1072.0,No
+P103,SKU-2492,Laptop Backpack,Accessories,Delhi,221.0,106.0,4.0,O10492,1/23/2024,Delivered,1.0,924.0,No
+P115,SKU-8430,Formal Shoes,Footwear,Chennai,192.0,42.0 ,3.0,O10130,4/19/2024,Delivered,6.0,2960.0,No
+P103,SKU-8635,Laptop Backpack,Accessories,Bangalore,188.0,45.0,5.0,,4/1/2024,Delivered,8.0,6710.0,Yes
+P113,SKU-7550,Air Fryer,Home & Kitchen,Pune,91.0,39.0,3.0,O10560,5/3/2024,Delivered,10.0,1816.0,No
+P110,SKU-7511,Yoga Mat,Fitness,Delhi,191.0,100.0,5.0,O10489,5/3/2024,Delivered,5.0,1864.0,No
+P103,SKU-6531,Laptop Backpack,Accessories,Pune,1.0 ,33.0,1.0,O10193,1/12/2024,Pending,0.0,5654.0,No
+P106,SKU-8972,Office Chair,Furniture,Pune,137.0,35.0,2.0,O10140,4/11/2024,Delivered,5.0,5309.0,Yes
+P106,SKU-7979,Office Chair,Furniture,Hyderabad,39.0,42.0,1.0,O10416,1/3/2024,Delayed,6.0,7379.0,Yes
+P104,SKU-4465,Smart Watch,,Delhi,75.0,50.0,3.0,O10476,,,5.0,6276.0,Yes
+P109,SKU-8381,Gaming Keyboard,Electronics,Mumbai,155.0,40.0,5.0,O10152,,Delivered,1.0,1813.0,Yes
+P112,SKU-8595,Travel Trolley,Accessories,Hyderabad,211.0,41.0,5.0,O10591,1/29/2024,Delivered,3.0,1872.0,Yes
+P103,SKU-1771,Laptop Backpack,Accessories,Mumbai,58.0,110.0,2.0,O10010,6/23/2024,Delivered,2.0,3858.0,Yes
+P102,SKU-2524,Bluetooth Headphones,Electronics,Pune,286.0,71.0,4.0,O10269,1/4/2024,Delivered,,2790.0,No
+P114,SKU-6568,Dumbbell Set,Fitness,,116.0,30.0,3.0,O10096,3/17/2024,Delivered,7.0,7260.0,No
+P103,,Laptop Backpack,Accessories,Pune,293.0,90.0,1.0,O10210,6/29/2024,Delivered,4.0,1531.0,Yes
+P108,SKU-6546,LED Desk Lamp,Home & Kitchen,Pune,,113.0,1.0,O10101,3/25/2024,Delayed,5.0,7382.0,No
+P101,SKU-3926,,Electronics,Mumbai,83.0,43.0,4.0,O10548,2/19/2024,Delayed,3.0,1208.0,Yes
+,SKU-2926,Running Shoes,Footwear,Delhi,83.0,30.0,5.0,O10596,,Pending,0.0,,No
+P101,SKU-1362,Wireless Mouse,,Delhi,32.0,66.0,3.0,O10532,2/2/2024,Cancelled,0.0,6258.0,
+P115,SKU-7698,Formal Shoes,Footwear,Delhi,nan ,112.0,4.0,O10234,4/5/2024,Delivered,5.0,7701.0,No
+P110,SKU-4201,Yoga Mat,Fitness,Hyderabad,,,2.0,O10332,1/2/2024,Cancelled,0.0,3759.0,Yes
+P105,SKU-9595,Running Shoes,Footwear,Pune,124.0 ,42.0,2.0,O10075,3/16/2024,Pending,0.0,2263.0,No
+P111,SKU-2680,Power Bank,Electronics,Mumbai,273.0,66.0,4.0,O10077,5/2/2024,Delayed,8.0,,
+,SKU-9856,Yoga Mat,Fitness,Bangalore,176.0,47.0,1.0,O10263,5/8/2024,Delayed,7.0,6506.0,No
+,SKU-8245,Laptop Backpack,Accessories,Hyderabad,135.0,,5.0,O10149,1/15/2024,Delivered,8.0,3283.0,Yes
+P107,SKU-1983,Water Bottle,Home & Kitchen,Delhi,110.0,90.0,1.0,O10514,4/25/2024,Delivered,3.0,6499.0,
+P104,SKU-1106,Smart Watch,,Delhi,196.0,73.0,3.0,O10002,2/9/2024,Delivered,5.0,2163.0,
+P106,SKU-5767,Office Chair,Furniture,Delhi,217.0,94.0,5.0,O10469,1/24/2024,,10.0,3650.0,No
+P103,SKU-8300,Laptop Backpack,Accessories,Pune,274.0,94.0,1.0,O10564,2/26/2024,Delivered,7.0,3938.0,No
+P103,SKU-5140,Laptop Backpack,,Delhi,38.0,53.0,5.0,O10461,1/14/2024,Delivered,10.0,7374.0,No
+P103,SKU-9882,Laptop Backpack,Accessories,Hyderabad,10.0,97.0 ,1.0,O10253,1/20/2024,Cancelled,0.0,7101.0,Yes
+P104,SKU-3798,Smart Watch,Electronics,Hyderabad,129.0,40.0,4.0,O10369,1/30/2024,Delivered,4.0,2926.0,No
+P105,SKU-9377,Running Shoes,Footwear,Delhi,59.0,,3.0,O10321,4/10/2024,Delivered,2.0,5204.0,Yes
+P108,SKU-1672,LED Desk Lamp,Home & Kitchen,Chennai,272.0 ,113.0,2.0,O10151,3/23/2024,Pending,0.0,5356.0,
+P104,SKU-5055,Smart Watch,Electronics,Hyderabad,181.0,92.0,2.0,O10302,,Delivered,6.0,,No
+P107,SKU-3034,Water Bottle,Home & Kitchen,Pune,58.0,68.0 ,2.0,O10190,2/11/2024,Delivered,1.0,3043.0,Yes
+P115,SKU-4646,Formal Shoes,Footwear,Hyderabad,83.0 ,56.0,1.0,,2/15/2024,Delivered,7.0,7994.0,No
+P111,SKU-5082,,Electronics,Hyderabad,,32.0,,O10348,4/1/2024,Delayed,9.0,4329.0,No
+P107,SKU-8758,Water Bottle,Home & Kitchen,Delhi,95.0,68.0,2.0,O10243,4/28/2024,Delivered,9.0,7893.0,Yes
+P102,SKU-1339,Bluetooth Headphones,Electronics,Hyderabad,117.0,103.0,1.0,O10087,2/14/2024,Delivered,10.0,4254.0,No
+P115,SKU-9138,Formal Shoes,Footwear,Bangalore,97.0,107.0,3.0,O10110,2/26/2024,Pending,0.0,5615.0,Yes
+P103,SKU-8479,Laptop Backpack,Accessories,Bangalore,177.0,118.0,4.0,O10418,4/17/2024,Delivered,7.0,5715.0,Yes
+P109,SKU-6134,Gaming Keyboard,Electronics,Pune,178.0,108.0,4.0,O10288,5/30/2024,Cancelled,0.0,1335.0,No
+P103,SKU-3273,Laptop Backpack,Accessories,Hyderabad,220.0,87.0,5.0,O10166,1/2/2024,Delivered,8.0,7820.0,Yes
+P115,SKU-3656,Formal Shoes,Footwear,Delhi,71.0,36.0,4.0,O10595,3/19/2024,Delivered,3.0,2935.0,No
+P110,SKU-4279,Yoga Mat,Fitness,Mumbai,49.0,39.0,4.0,O10184,2/14/2024,Delivered,8.0,7761.0,No
+P105,SKU-3463,Running Shoes,Footwear,Bangalore,21.0,104.0,2.0,O10155,3/30/2024,Delivered,10.0,2941.0,No
+P113,SKU-6978,Air Fryer,Home & Kitchen,Mumbai,171.0,120.0,4.0,O10356,5/30/2024,Delivered,9.0,,No
+P115,SKU-1331,Formal Shoes,Footwear,Bangalore,135.0,69.0,,,5/5/2024,Delivered,6.0,7430.0,Yes
+P102,SKU-3725,Bluetooth Headphones,Electronics,Hyderabad,293.0,,5.0,O10279,6/14/2024,Delayed,6.0,5949.0,No
+P112,SKU-5941,Travel Trolley,Accessories,Chennai,-5.0,37.0,4.0,,4/12/2024,Delayed,9.0,3892.0,Yes
+P111,SKU-2612,,Electronics,Mumbai,186.0,73.0,1.0,O10022,3/4/2024,,0.0,1969.0,Yes
+P115,SKU-2901,Formal Shoes,Footwear,Hyderabad,52.0,74.0,3.0,O10282,3/28/2024,Cancelled,0.0,4130.0,Yes
+P112,SKU-6878,Travel Trolley,Accessories,Mumbai,92.0,92.0 ,2.0,O10471,1/17/2024,Pending,0.0,2565.0,No
+P104,SKU-9849,Smart Watch,Electronics,,124.0,68.0,2.0,O10367,1/25/2024,Delivered,9.0,806.0,No
+P104,SKU-3697,Smart Watch,Electronics,Chennai,-19.0,79.0,3.0,O10025,4/26/2024,Delayed,1.0,2736.0,No
+P108,SKU-3353,LED Desk Lamp,Home & Kitchen,Bangalore,,74.0,4.0,,2/3/2024,Delivered,6.0,6631.0,No
+P115,SKU-7498,Formal Shoes,Footwear,Hyderabad,81.0,39.0,5.0,O10064,6/25/2024,Delivered,7.0,7204.0,Yes
+P115,SKU-6038,Formal Shoes,Footwear,Delhi,9.0,60.0,5.0,O10015,1/21/2024,Cancelled,0.0,1101.0,No
+P106,SKU-2783,Office Chair,Furniture,Delhi,290.0,40.0,3.0,O10466,2/5/2024,Delayed,8.0,7701.0,Yes
+P112,SKU-5877,Travel Trolley,Accessories,Mumbai,210.0 ,63.0,3.0,O10297,1/23/2024,Delayed,4.0,3996.0,
+P102,SKU-2020,Bluetooth Headphones,Electronics,Chennai,46.0,60.0,3.0,O10336,3/7/2024,Pending,0.0,7370.0,No
+P112,SKU-8973,Travel Trolley,Accessories,Delhi,77.0,67.0 ,2.0,O10026,1/15/2024,Cancelled,0.0,5144.0,
+P112,SKU-9784,Travel Trolley,,Pune,,96.0,1.0,O10588,4/25/2024,Delivered,10.0,4142.0,Yes
+P112,SKU-9379,Travel Trolley,Accessories,Mumbai,177.0,103.0,2.0,O10043,3/6/2024,Delayed,7.0,763.0,No
+P110,SKU-2124,Yoga Mat,Fitness,Mumbai,261.0,66.0,5.0,O10497,5/29/2024,Delivered,1.0,3251.0,No
+P105,SKU-5222,,Footwear,Bangalore,,82.0,1.0,O10515,3/30/2024,Delivered,9.0,7505.0,Yes
+P115,SKU-3656,Formal Shoes,Footwear,Delhi,71.0 ,36.0,4.0,O10595,3/19/2024,Delivered,3.0,2935.0,No
+P114,SKU-2562,Dumbbell Set,Fitness,Pune,133.0,34.0,5.0,O10561,4/7/2024,Delayed,10.0,1042.0,Yes
+P112,SKU-1389,Travel Trolley,Accessories,Chennai,149.0,,1.0,O10454,1/19/2024,Pending,0.0,844.0,Yes
+P110,SKU-6640,Yoga Mat,Fitness,Delhi,112.0,118.0,1.0,,3/13/2024,Pending,0.0,624.0,No
+P104,SKU-9004,Smart Watch,Electronics,Pune,103.0,118.0,,O10071,6/14/2024,Pending,0.0,6231.0,No
+,,Air Fryer,Home & Kitchen,Hyderabad,173.0,75.0,,O10542,3/5/2024,Delayed,4.0,7761.0,Yes
+P106,SKU-9762,Office Chair,Furniture,Mumbai,296.0,38.0,5.0,O10456,1/12/2024,Delivered,2.0,6141.0,Yes
+P102,SKU-7437,Bluetooth Headphones,Electronics,Delhi,214.0 ,54.0,,O10431,1/28/2024,Cancelled,0.0,6602.0,No
+P101,SKU-2245,Wireless Mouse,Electronics,Bangalore,289.0 ,108.0 ,5.0,O10264,4/11/2024,Delivered,4.0,6736.0,No
+P103,SKU-1517,Laptop Backpack,Accessories,Pune,36.0,54.0,1.0,O10209,,Delayed,4.0,2969.0,No
+P104,SKU-5668,Smart Watch,Electronics,Hyderabad,-7.0,114.0,3.0,O10316,2/22/2024,Pending,0.0,4641.0,Yes
+P103,SKU-9470,Laptop Backpack,Accessories,Pune,141.0,92.0 ,3.0,O10513,,Delivered,3.0,5005.0,Yes
+P111,SKU-3340,Power Bank,Electronics,Mumbai,251.0 ,102.0 ,1.0,O10313,6/5/2024,Cancelled,0.0,5724.0,Yes
+P106,SKU-6410,Office Chair,Furniture,Mumbai,54.0,37.0,3.0,O10534,,Delivered,1.0,984.0,No
+P113,SKU-1273,Air Fryer,Home & Kitchen,,14.0,31.0,3.0,O10319,2/25/2024,Delivered,2.0,726.0,Yes
+P103,SKU-4598,Laptop Backpack,Accessories,Hyderabad,146.0,37.0,2.0,O10007,1/9/2024,Delivered,5.0,,No
+P114,SKU-4086,Dumbbell Set,Fitness,Delhi,244.0,60.0,1.0,O10393,6/2/2024,Delivered,5.0,3710.0,No
+P101,SKU-3248,Wireless Mouse,Electronics,Bangalore,128.0 ,71.0,1.0,O10141,1/2/2024,Delivered,4.0,4474.0,No
+P109,SKU-2317,Gaming Keyboard,Electronics,Pune,0.0,85.0,3.0,O10086,,Delivered,8.0,2451.0,Yes
+P101,SKU-3639,Wireless Mouse,Electronics,Delhi,242.0,35.0,5.0,O10478,2/7/2024,Delivered,3.0,858.0,Yes
+P108,,LED Desk Lamp,Home & Kitchen,Delhi,77.0,93.0,2.0,O10503,3/1/2024,Delivered,4.0,6424.0,Yes
+P106,SKU-5201,Office Chair,,Hyderabad,225.0,57.0,2.0,O10215,5/17/2024,Cancelled,0.0,2621.0,No
+P108,SKU-3270,LED Desk Lamp,Home & Kitchen,Pune,257.0,117.0,2.0,O10580,,Delivered,4.0,2931.0,Yes
+P115,SKU-8115,Formal Shoes,Footwear,Chennai,41.0,59.0,5.0,O10562,1/3/2024,Delayed,6.0,5592.0,No
+P112,SKU-6428,Travel Trolley,Accessories,Bangalore,113.0,104.0,3.0,O10398,4/28/2024,,7.0,7373.0,Yes
+P109,SKU-5157,Gaming Keyboard,Electronics,Bangalore,275.0,74.0,4.0,O10490,2/5/2024,Pending,0.0,7404.0,Yes
+P105,SKU-9037,Running Shoes,Footwear,Chennai,66.0 ,75.0,2.0,O10252,,Delayed,8.0,6300.0,No
+P113,SKU-1600,Air Fryer,Home & Kitchen,Pune,113.0,,5.0,O10468,4/30/2024,Pending,,5756.0,Yes
+,SKU-8157,Running Shoes,Footwear,Hyderabad,229.0,113.0,3.0,O10357,2/14/2024,Delivered,3.0,6193.0,No
+P113,,Air Fryer,Home & Kitchen,Mumbai,57.0,31.0,2.0,O10254,5/9/2024,Delivered,3.0,4135.0,No
+,SKU-8563,Power Bank,Electronics,Hyderabad,87.0,86.0,3.0,O10276,6/26/2024,Delayed,1.0,,No
+P102,SKU-6021,Bluetooth Headphones,Electronics,,288.0,,2.0,O10178,6/25/2024,Delivered,5.0,4036.0,No
+P108,,LED Desk Lamp,Home & Kitchen,Delhi,156.0,33.0,4.0,O10281,1/27/2024,Delivered,8.0,2820.0,No
+P112,SKU-5511,Travel Trolley,Accessories,Chennai,172.0,74.0,4.0,O10390,3/5/2024,Cancelled,0.0,2187.0,No
+P108,SKU-9490,LED Desk Lamp,,Chennai,141.0,118.0,,O10508,1/4/2024,Cancelled,0.0,5922.0,
+P103,SKU-3155,Laptop Backpack,Accessories,,-7.0 ,108.0 ,5.0,O10583,3/9/2024,Delayed,2.0,5361.0,Yes
+P109,SKU-2624,Gaming Keyboard,Electronics,Hyderabad,,113.0,5.0,O10129,2/25/2024,,0.0,3923.0,No
+P102,SKU-3815,Bluetooth Headphones,Electronics,Pune,,118.0,3.0,O10144,1/23/2024,Delivered,6.0,3977.0,Yes
+P113,SKU-9674,Air Fryer,Home & Kitchen,Bangalore,183.0,70.0,3.0,O10182,3/4/2024,Delivered,,1329.0,Yes
+P108,SKU-5820,LED Desk Lamp,Home & Kitchen,Delhi,187.0,118.0 ,2.0,O10072,3/19/2024,Delayed,2.0,,No
+P108,SKU-7154,LED Desk Lamp,Home & Kitchen,Mumbai,,47.0,3.0,O10235,1/31/2024,Delayed,7.0,1862.0,No
+P103,SKU-1653,,Accessories,Bangalore,87.0,117.0,2.0,O10037,6/19/2024,Delivered,6.0,1242.0,No
